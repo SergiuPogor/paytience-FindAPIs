@@ -1,5 +1,5 @@
 {
-  "count": 15553,
+  "count": 15543,
   "entries": [
     {
       "API Name": "(a9t9) OCR",
@@ -49143,16 +49143,6 @@
     },
     {
       "API Name": "Finnhub",
-      "Description": "Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://finnhub.io/docs/api",
-      "Category": "Finance",
-      "Pricing": "free"
-    },
-    {
-      "API Name": "Finnhub",
       "Description": "Real-time stock prices, company fundamentals, and financial news.",
       "Auth": "apiKey",
       "HTTPS": true,
@@ -71933,16 +71923,6 @@
     },
     {
       "API Name": "IPinfo",
-      "Description": "Another simple IP Address API",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://ipinfo.io/developers",
-      "Category": "Development",
-      "Pricing": "free"
-    },
-    {
-      "API Name": "IPinfo",
       "Description": "IP geolocation, ASN lookup, and VPN/proxy detection.",
       "Auth": "apiKey",
       "HTTPS": true,
@@ -72200,6 +72180,16 @@
       "Documentation Link": "http://api.ipv4.cf",
       "Category": "Development",
       "Pricing": "unknown"
+    },
+    {
+      "API Name": "IPWho IP Geolocation",
+      "Description": "2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency.",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "yes",
+      "Documentation Link": "https://www.ipwho.org/",
+      "Category": "Geocoding",
+      "Pricing": "freemium"
     },
     {
       "API Name": "IPWhois",
@@ -74089,16 +74079,6 @@
       "Cors": "",
       "Documentation Link": "https://json2jsonp.com/",
       "Category": "Development",
-      "Pricing": "free"
-    },
-    {
-      "API Name": "JSON2Video",
-      "Description": "Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "no",
-      "Documentation Link": "https://json2video.com",
-      "Category": "Video",
       "Pricing": "free"
     },
     {
@@ -83009,6 +82989,16 @@
       "Cors": "",
       "Documentation Link": "https://www.mbta.com/developers",
       "Category": "Transportation",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "MConverter",
+      "Description": "File converter and PDF compressor. Extract images from video, convert documents, Markdown and more",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://dev.mconverter.eu/",
+      "Category": "Documents & Productivity",
       "Pricing": "unknown"
     },
     {
@@ -97633,16 +97623,6 @@
     },
     {
       "API Name": "Open Library",
-      "Description": "Books, book covers and related data",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "no",
-      "Documentation Link": "https://openlibrary.org/developers/api",
-      "Category": "Books",
-      "Pricing": "free"
-    },
-    {
-      "API Name": "Open Library",
       "Description": "Book data, covers, and reading lists from Internet Archive.",
       "Auth": "",
       "HTTPS": true,
@@ -111882,16 +111862,6 @@
       "Pricing": "unknown"
     },
     {
-      "API Name": "Remove.bg",
-      "Description": "Image Background removal",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://www.remove.bg/api",
-      "Category": "Photography",
-      "Pricing": "free"
-    },
-    {
       "API Name": "Remy Sharp&#039;s TinyURL",
       "Description": "Remy Sharp's TinyURL API is a service that allows users to post URLs to Twitter that are first compressed using TinyURL. The API allows the dynamic creation of TinyURLs on the fly via JavaScript. This is an unofficial API and is not provided, supported, or endorsed by either TinyURL or Twitter.",
       "Auth": "",
@@ -112300,16 +112270,6 @@
       "Documentation Link": "https://responsivevoice.org",
       "Category": "Open Data",
       "Pricing": "unknown"
-    },
-    {
-      "API Name": "REST Countries",
-      "Description": "Get information about countries via a RESTful API",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "yes",
-      "Documentation Link": "https://restcountries.com",
-      "Category": "Geocoding",
-      "Pricing": "free"
     },
     {
       "API Name": "REST Countries",
@@ -116868,6 +116828,16 @@
       "HTTPS": true,
       "Cors": "yes",
       "Documentation Link": "https://www.abstractapi.com/website-screenshot-api",
+      "Category": "Development",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Screenshot Scout",
+      "Description": "Screenshot API for developers that captures any URL in one HTTP request with predictable output",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://screenshotscout.com/",
       "Category": "Development",
       "Pricing": "unknown"
     },
@@ -132312,16 +132282,6 @@
       "Pricing": "unknown"
     },
     {
-      "API Name": "TheMealDB",
-      "Description": "Meal Recipes",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "yes",
-      "Documentation Link": "https://www.themealdb.com/api.php",
-      "Category": "Food & Drink",
-      "Pricing": "free"
-    },
-    {
       "API Name": "TheNews",
       "Description": "Aggregated headlines, top story and live news JSON API",
       "Auth": "apiKey",
@@ -143619,6 +143579,16 @@
       "Cors": "",
       "Documentation Link": "https://www.vedicrishi.in/web-astro-api",
       "Category": "Other",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Vedika",
+      "Description": "AI-powered Vedic astrology API with birth charts, compatibility, doshas, AI chatbot in 22 languages",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "yes",
+      "Documentation Link": "https://vedika.io",
+      "Category": "Personality",
       "Pricing": "unknown"
     },
     {
@@ -155460,76 +155430,6 @@
       "Documentation Link": "https://www.zynxhealth.com/news-resources/developer",
       "Category": "Open Data",
       "Pricing": "unknown"
-    },
-    {
-      "API Name": "MConverter",
-      "Description": "File converter and PDF compressor. Extract images from video, convert documents, Markdown and more",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "unknown",
-      "Documentation Link": "https://dev.mconverter.eu/",
-      "Category": "Documents & Productivity",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Screenshot Scout",
-      "Description": "Screenshot API for developers that captures any URL in one HTTP request with predictable output",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "unknown",
-      "Documentation Link": "https://screenshotscout.com/",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "IPWho IP Geolocation",
-      "Description": "2,000 free API calls per day. Production grade IP intelligence at non-enterprise prices. Servers in 12+ regions for low latency.",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "yes",
-      "Documentation Link": "https://www.ipwho.org/",
-      "Category": "Geocoding",
-      "Pricing": "freemium"
-    },
-    {
-      "API Name": "Vedika",
-      "Description": "AI-powered Vedic astrology API with birth charts, compatibility, doshas, AI chatbot in 22 languages",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "yes",
-      "Documentation Link": "https://vedika.io",
-      "Category": "Personality",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Fantasy Premier League",
-      "Description": "Fantasy Premier League data, including fixtures, teams, and player stats",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "unknown",
-      "Documentation Link": "https://github.com/flavnat/fpl-api",
-      "Category": "Sports & Fitness",
-      "Pricing": "free"
-    },
-    {
-      "API Name": "Holy Bible",
-      "Description": "Free Bible API serving 800+ text translations and 40+ audio translations",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "no",
-      "Documentation Link": "https://holy-bible-api.com/docs",
-      "Category": "Books",
-      "Pricing": "free"
-    },
-    {
-      "API Name": "EC2.shop",
-      "Description": "Get AWS service price right from your terminal",
-      "Auth": "",
-      "HTTPS": false,
-      "Cors": "no",
-      "Documentation Link": "https://github.com/yeo/ec2.shop",
-      "Category": "Continuous Integration",
-      "Pricing": "free"
     }
   ]
 }
