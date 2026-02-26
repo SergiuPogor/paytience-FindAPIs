@@ -643,7 +643,7 @@
     },
     {
       "API Name": "4PSA DNS Manager",
-      "Description": "This API allows thirdï¿½party products to interact with the 4PSA DNS Manager system. The DNS Manager is a multitenant software automation tool designed to deliver DNS hosting to service providers and businesses. The web service allows the execution of basic management operations on client accounts or dns zones belonging to a 4PSA DNS Manager system. The API uses SOAP protocol and responses are formatted in XML.",
+      "Description": "This API allows third-party products to interact with the 4PSA DNS Manager system. The DNS Manager is a multitenant software automation tool designed to deliver DNS hosting to service providers and businesses. The web service allows the execution of basic management operations on client accounts or dns zones belonging to a 4PSA DNS Manager system. The API uses SOAP protocol and responses are formatted in XML.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -9383,7 +9383,7 @@
     },
     {
       "API Name": "AssureSign",
-      "Description": "AssureSign offers its DocumentNOWï¿½ and DocumentTRAKï¿½ API tools, which allow users to integrate with existing environments, including Microsoft applications. Developers can use the AssureSign DocumentTRAKï¿½ API to instantaneously transmit executed documents into existing systems. DocumentNOWï¿½ and DocumentTRAKï¿½ provide users with several implementation options, including seamless integration to existing business applications, such as salesforce, sharepoint and oracle.\nAssureSign is an enterprise-class process automation solution that integrates with existing systems and business applications to secure legally binding electronic signatures. AssureSign can be deployed as a \"cloud-computing\" or Software-as-a-Service (SaaS) application, requiring no hardware or software for any user. AssureSign can also be installed on customer premise. AssureSign LLC is a leading provider of web-based electronic signature solutions, featuring unique, patent-pending technology that allows for the execution of any document with forensically identifiable, legally binding signatures. Public documentation for the API is not available.",
+      "Description": "AssureSign offers its DocumentNOW’ and DocumentTRAK’ API tools, which allow users to integrate with existing environments, including Microsoft applications. Developers can use the AssureSign DocumentTRAK’ API to instantaneously transmit executed documents into existing systems. DocumentNOW’ and DocumentTRAK’ provide users with several implementation options, including seamless integration to existing business applications, such as salesforce, sharepoint and oracle.\nAssureSign is an enterprise-class process automation solution that integrates with existing systems and business applications to secure legally binding electronic signatures. AssureSign can be deployed as a \"cloud-computing\" or Software-as-a-Service (SaaS) application, requiring no hardware or software for any user. AssureSign can also be installed on customer premise. AssureSign LLC is a leading provider of web-based electronic signature solutions, featuring unique, patent-pending technology that allows for the execution of any document with forensically identifiable, legally binding signatures. Public documentation for the API is not available.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -18833,7 +18833,7 @@
     },
     {
       "API Name": "BlueVia Advertising",
-      "Description": "Display ads to mobile users with the BlueVia Advertising API. BlueVia is a developer initiative from communications company Telefï¿½nica. The Advertising API provides both text and image ads via a REST API. Developers can them take the elements of the advertisement and display it in a method appropriate for their applications.",
+      "Description": "Display ads to mobile users with the BlueVia Advertising API. BlueVia is a developer initiative from communications company Telefónica. The Advertising API provides both text and image ads via a REST API. Developers can them take the elements of the advertisement and display it in a method appropriate for their applications.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -18843,7 +18843,7 @@
     },
     {
       "API Name": "Bluevia Location",
-      "Description": "BlueVia is a developer initiative from communications company Telefï¿½nica. The Location API enables an application to get the user's handset location. The API uses RESTful calls and responses are formatted in XML and JSON.",
+      "Description": "BlueVia is a developer initiative from communications company Telefónica. The Location API enables an application to get the user's handset location. The API uses RESTful calls and responses are formatted in XML and JSON.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -18863,7 +18863,7 @@
     },
     {
       "API Name": "BlueVia SMS",
-      "Description": "Send and receive SMS messages with the BlueVia SMS API. BlueVia is a developer initiative from communications company Telefï¿½nica. The SMS API helps you include two-way SMS functionality in your applications. To receive messages, you register a keyword with one of the BlueVia short codes (which differ by country). Free SMS credits are available for testing.",
+      "Description": "Send and receive SMS messages with the BlueVia SMS API. BlueVia is a developer initiative from communications company Telefónica. The SMS API helps you include two-way SMS functionality in your applications. To receive messages, you register a keyword with one of the BlueVia short codes (which differ by country). Free SMS credits are available for testing.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -18873,7 +18873,7 @@
     },
     {
       "API Name": "BlueVia User Context",
-      "Description": "BlueVia is a developer initiative from communications company Telefï¿½nica. The BlueVia User Context service aims to help developers access network-based information. Developers with permission from the user can access location, device information and the user's profile data.",
+      "Description": "BlueVia is a developer initiative from communications company Telefónica. The BlueVia User Context service aims to help developers access network-based information. Developers with permission from the user can access location, device information and the user's profile data.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -21863,7 +21863,7 @@
     },
     {
       "API Name": "Calameo",
-      "Description": "Calamï¿½o is a program that lets users upload documents from many major formats and create interactive web publications. The API uses either a RESTful interface or a deprecated SOAP interface allowing users to integrate publishing and other advanced features in their applications. To access the API, users must upgrade to a premium account.",
+      "Description": "Calaméo is a program that lets users upload documents from many major formats and create interactive web publications. The API uses either a RESTful interface or a deprecated SOAP interface allowing users to integrate publishing and other advanced features in their applications. To access the API, users must upgrade to a premium account.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -30843,7 +30843,7 @@
     },
     {
       "API Name": "ConstantContact",
-      "Description": "Integrate your software with Email Marketing from Constant Contact. Our API allows you to seamlessly integrate our industry-leading Email Marketing service. Today more than 300,000 small businesses and organizations rely on Constant Contactï¿½s Email Marketing to help them drive their success.\nOur API allows you to manage email contacts, contact lists and reporting data. Also you can view email marketing campaign results; including which email contacts were mailed to, who opened the email and who clicked each URL link in the email.",
+      "Description": "Integrate your software with Email Marketing from Constant Contact. Our API allows you to seamlessly integrate our industry-leading Email Marketing service. Today more than 300,000 small businesses and organizations rely on Constant Contact’s Email Marketing to help them drive their success.\nOur API allows you to manage email contacts, contact lists and reporting data. Also you can view email marketing campaign results; including which email contacts were mailed to, who opened the email and who clicked each URL link in the email.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -42033,7 +42033,7 @@
     },
     {
       "API Name": "edocr",
-      "Description": "edocr.com provides a highly interactivity environment for publishing and distributing an organisationï¿½s public documents across the Internet. The API uses a RESTful protocol to interact with the edocr.com web site capabilities. Users can use the API to list documents, post comments, list comments and more. Responses are formatted in JSON.",
+      "Description": "edocr.com provides a highly interactivity environment for publishing and distributing an organisation’s public documents across the Internet. The API uses a RESTful protocol to interact with the edocr.com web site capabilities. Users can use the API to list documents, post comments, list comments and more. Responses are formatted in JSON.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -75363,7 +75363,7 @@
     },
     {
       "API Name": "Kintera",
-      "Description": "Kintera Sphere software as a service technology platform and social CRM (Constituent Relationship Management) system enables organizations to quickly and easily reach more people, raise more money and run more efficiently. The API enables you to extend Kintera Sphereï¿½s capabilities to build custom Kintera Connect Applications.",
+      "Description": "Kintera Sphere software as a service technology platform and social CRM (Constituent Relationship Management) system enables organizations to quickly and easily reach more people, raise more money and run more efficiently. The API enables you to extend Kintera Sphere’s capabilities to build custom Kintera Connect Applications.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -76822,8 +76822,8 @@
       "Pricing": "unknown"
     },
     {
-      "API Name": "la Loterï¿½a del Niï¿½o",
-      "Description": "la Loterï¿½a del Niï¿½o API is provided by El Paï¿½s in order to check the status of a number in the ONLAE lottery, which is held in Spain. The API is free and requires no signup to access.",
+      "API Name": "la Lotería del Niño",
+      "Description": "la Lotería del Niño API is provided by El País in order to check the status of a number in the ONLAE lottery, which is held in Spain. The API is free and requires no signup to access.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -83133,7 +83133,7 @@
     },
     {
       "API Name": "MediaTemple",
-      "Description": "Web hosting company MediaTemple provides an API to access many of its services, such as adding temporary disk space or rebooting the server. With the API users can access statistics, reboot servers, check billing status and more. The API methods focus on two areas: Service info and controls, and Performance Stats. Some of the functionality includes: Provision a new (ve) Server or (dv) 4.0 Server Access realtime and historical server status info Reboot user server(s) List IPï¿½s List primary, access domains, and hostservers Securely set a root password Securely set Plesk password (if applicable) Flush firewall rules (iptables) Instantly add temporary disk space List all (mt) hosting & add-on services Check user account billing status\nThe API uses RESTful calls and responses are formatted in XML and JSON.",
+      "Description": "Web hosting company MediaTemple provides an API to access many of its services, such as adding temporary disk space or rebooting the server. With the API users can access statistics, reboot servers, check billing status and more. The API methods focus on two areas: Service info and controls, and Performance Stats. Some of the functionality includes: Provision a new (ve) Server or (dv) 4.0 Server Access realtime and historical server status info Reboot user server(s) List IP’s List primary, access domains, and hostservers Securely set a root password Securely set Plesk password (if applicable) Flush firewall rules (iptables) Instantly add temporary disk space List all (mt) hosting & add-on services Check user account billing status\nThe API uses RESTful calls and responses are formatted in XML and JSON.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -86893,7 +86893,7 @@
     },
     {
       "API Name": "Mnatives",
-      "Description": "MNatives is Indiaï¿½s leading bulk sms service. It's SMS Gateway service allows users to send and receive text messages from a PC. The mNatives SMS API allows developers to integrate short messaging services into their system and communicate with the mNatives SMS Gateway. Developers can use the RESTful SMS Messaging Web Service HTTP API to send one, or hundreds, of text messages in seconds.",
+      "Description": "MNatives is India’s leading bulk sms service. It's SMS Gateway service allows users to send and receive text messages from a PC. The mNatives SMS API allows developers to integrate short messaging services into their system and communicate with the mNatives SMS Gateway. Developers can use the RESTful SMS Messaging Web Service HTTP API to send one, or hundreds, of text messages in seconds.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -93763,7 +93763,7 @@
     },
     {
       "API Name": "Notifo",
-      "Description": "Notifoï¿½s API allows any site to quickly offer Push Notifications by inserting a few lines of code. This means that a user can get all of their notifications from various sources in a single place. Notifo is a platform for real-time mobile notifications across multiple sources. The API uses RESTful protocol and responses are formatted in JSON.",
+      "Description": "Notifo’s API allows any site to quickly offer Push Notifications by inserting a few lines of code. This means that a user can get all of their notifications from various sources in a single place. Notifo is a platform for real-time mobile notifications across multiple sources. The API uses RESTful protocol and responses are formatted in JSON.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -95483,7 +95483,7 @@
     },
     {
       "API Name": "Offerpal",
-      "Description": "Offerpal Media is the leader in virtual currency monetization for online games, virtual worlds and social networks. The companyï¿½s turnkey payment platform gives consumers the opportunity to earn or buy virtual currency by completing targeted advertising offers or by purchasing it through direct, global payment options.\nOfferpal has issued more than 750 billion virtual points to over 150 million consumers across 2,000 publishers and 190 countries since its launch in 2007. The service is embeddable as an I-Frame or XML/JSON feed. No public documentation is available.",
+      "Description": "Offerpal Media is the leader in virtual currency monetization for online games, virtual worlds and social networks. The company’s turnkey payment platform gives consumers the opportunity to earn or buy virtual currency by completing targeted advertising offers or by purchasing it through direct, global payment options.\nOfferpal has issued more than 750 billion virtual points to over 150 million consumers across 2,000 publishers and 190 countries since its launch in 2007. The service is embeddable as an I-Frame or XML/JSON feed. No public documentation is available.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -100543,7 +100543,7 @@
     },
     {
       "API Name": "Panoramio",
-      "Description": "(Deprecated in November, 2016) Using Panoramio API users can display the photos from Panoramio on their own web site. Geolocated photos from Panoramio can enrich maps or illustrate information where location is a important factor (real estate sites, hotels and vacation sites, routes & trails).\nPanoramio is a website that enables digital photographers to geolocate, store and organize their photographsï¿½and to view those photographs in Google Earth and Google Maps. Panoramio is a community-powered site for exploring places through photography: cities, natural wonders, or anywhere you might go. Panoramio is different from other photo sharing sites because the photos illustrate places. As you browse Panoramio, notice that there aren't many photos of friends and family posing in front of places, or photos of interesting surfaces--Panoramio's all about seeing the world.\nThe Panoramio API uses a RESTful interface and responses are formatted in JSON.",
+      "Description": "(Deprecated in November, 2016) Using Panoramio API users can display the photos from Panoramio on their own web site. Geolocated photos from Panoramio can enrich maps or illustrate information where location is a important factor (real estate sites, hotels and vacation sites, routes & trails).\nPanoramio is a website that enables digital photographers to geolocate, store and organize their photographs’and to view those photographs in Google Earth and Google Maps. Panoramio is a community-powered site for exploring places through photography: cities, natural wonders, or anywhere you might go. Panoramio is different from other photo sharing sites because the photos illustrate places. As you browse Panoramio, notice that there aren't many photos of friends and family posing in front of places, or photos of interesting surfaces--Panoramio's all about seeing the world.\nThe Panoramio API uses a RESTful interface and responses are formatted in JSON.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -108933,7 +108933,7 @@
     },
     {
       "API Name": "Qualified Address",
-      "Description": "From their site: Verify addresses on any website form. Great for validating shipping addresses before mailing a product or adding +4 Codes to addresses as they are entered onto your website. JavaScript or XML Versions available. Address verification against U.S. Postal Serviceï¿½ (USPSï¿½) file, down to the Apt/Suite level. Accesses CASS-certified software.",
+      "Description": "From their site: Verify addresses on any website form. Great for validating shipping addresses before mailing a product or adding +4 Codes to addresses as they are entered onto your website. JavaScript or XML Versions available. Address verification against U.S. Postal Service’ (USPS’) file, down to the Apt/Suite level. Accesses CASS-certified software.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -117713,7 +117713,7 @@
     },
     {
       "API Name": "Semantic Engines Semantic",
-      "Description": "The Semantic Engines Semantic API is deployed in a computing cloud and powers tools, including SenseBot, OpinionCrawl, and LinkSensor. It allows users to utilize a high-quality semantic or text mining solution to enrich their applications. Semantic Engines LLC develops products in the fields of information search and retrieval, text mining, semantic analysis, sentiment analysis, and contextual advertising. Semantic API features include: extraction of semantic concepts from a page or document; creating a ï¿½semantic cloudï¿½ of concepts describing a group of pages; generating a multi-document summary of a set of pages; generating an essay on a topic based on a set of pages. It uses both RESTful and SOAP protocols and requires use of an API key. Responses are formatted in XML.",
+      "Description": "The Semantic Engines Semantic API is deployed in a computing cloud and powers tools, including SenseBot, OpinionCrawl, and LinkSensor. It allows users to utilize a high-quality semantic or text mining solution to enrich their applications. Semantic Engines LLC develops products in the fields of information search and retrieval, text mining, semantic analysis, sentiment analysis, and contextual advertising. Semantic API features include: extraction of semantic concepts from a page or document; creating a ’semantic cloud’ of concepts describing a group of pages; generating a multi-document summary of a set of pages; generating an essay on a topic based on a set of pages. It uses both RESTful and SOAP protocols and requires use of an API key. Responses are formatted in XML.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -117743,7 +117743,7 @@
     },
     {
       "API Name": "SemanticHacker",
-      "Description": "The SemanticHacker API generates Semantic Signaturesï¿½. A Semantic Signatureï¿½ is a representation of ALL concepts covered in a block of text. Each block of text contains semantic dimensions with associated weights. The dimension weights capture the strength of each concept in the block of text.",
+      "Description": "The SemanticHacker API generates Semantic Signatures’. A Semantic Signature’ is a representation of ALL concepts covered in a block of text. Each block of text contains semantic dimensions with associated weights. The dimension weights capture the strength of each concept in the block of text.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -118073,7 +118073,7 @@
     },
     {
       "API Name": "Sensebot",
-      "Description": "Sensebot Semantic Cloud API features extraction of semantic concepts from a page; creating ï¿½semantic cloudï¿½ of concepts describing a group of documents; generating a multi-document summary of a set of pages; multiple parameters to control the type and format of results. It is now deployed in the Amazon computing cloud. This gives it virtually unlimited scaling capabilities to support client applications.",
+      "Description": "Sensebot Semantic Cloud API features extraction of semantic concepts from a page; creating ’semantic cloud’ of concepts describing a group of documents; generating a multi-document summary of a set of pages; multiple parameters to control the type and format of results. It is now deployed in the Amazon computing cloud. This gives it virtually unlimited scaling capabilities to support client applications.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -128013,7 +128013,7 @@
     },
     {
       "API Name": "SugarSync",
-      "Description": "The SugarSync API lets developers integrate SugarSync with their desktop and Web apps, build apps to extend SugarSync functionality, or simply leverage the SugarSync cloud. SugarSync is an on-demand web service that securely backs up computers online and synchronizes them automatically. It allows access to the latest version of user files from anywhere -- on the web, on different computers, even on mobile phones.\nThe SugarSync Platform API is a RESTful web service that allows users to create applications that can create, read and modify files stored in thier SugarSync accounts. Using HTTP requests, an application can choose a file that has been synced up from a userï¿½s PC, retrieve the fileï¿½s contents, make changes and store the results back into SugarSync. The modified file then automatically syncs back to each of the userï¿½s systems. Responses are formatted in XML.",
+      "Description": "The SugarSync API lets developers integrate SugarSync with their desktop and Web apps, build apps to extend SugarSync functionality, or simply leverage the SugarSync cloud. SugarSync is an on-demand web service that securely backs up computers online and synchronizes them automatically. It allows access to the latest version of user files from anywhere -- on the web, on different computers, even on mobile phones.\nThe SugarSync Platform API is a RESTful web service that allows users to create applications that can create, read and modify files stored in thier SugarSync accounts. Using HTTP requests, an application can choose a file that has been synced up from a user’s PC, retrieve the file’s contents, make changes and store the results back into SugarSync. The modified file then automatically syncs back to each of the user’s systems. Responses are formatted in XML.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -134753,7 +134753,7 @@
     },
     {
       "API Name": "Tourico Holidays",
-      "Description": "Tourico Holidays is a worldwide wholesale travel provider with more than 150 international distribution websites, more than 23,000 merchant hotel agreements, and operating globally in 23 languages.\nTourico Holidays offers its clients access to multiple products across thousands of vacation destinations around the world. Tourico Holidaysï¿½ clients have access via its XML platform to everything the company offers. Full documentation is not publicly available.",
+      "Description": "Tourico Holidays is a worldwide wholesale travel provider with more than 150 international distribution websites, more than 23,000 merchant hotel agreements, and operating globally in 23 languages.\nTourico Holidays offers its clients access to multiple products across thousands of vacation destinations around the world. Tourico Holidays’ clients have access via its XML platform to everything the company offers. Full documentation is not publicly available.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -135563,7 +135563,7 @@
     },
     {
       "API Name": "Transloadit",
-      "Description": "Transloadit offers media upload, modification, and storage as a service for developers who need that functionality, but donï¿½t want to worry about it themselves. The service converts video into multiple formats and performs photo resizing, as well as stores the media in Amazon S3.",
+      "Description": "Transloadit offers media upload, modification, and storage as a service for developers who need that functionality, but don’t want to worry about it themselves. The service converts video into multiple formats and performs photo resizing, as well as stores the media in Amazon S3.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -138243,7 +138243,7 @@
     },
     {
       "API Name": "TweepSearch",
-      "Description": "Ever wondered how many of your Twitter followers are web developers? Paging through twenty at a time and looking at bios is too slow to be worth answering that question. Using TweepSearch, you can quickly find that answerï¿½ and several others youï¿½ll come up with after you see how easy it is. The TweepSearch API is available to developers wishing to query the TweepSearch database in a programmatic fashion. The RESTful API, like the website, supports a number of search operators, returns stemmed results unless otherwise specified, can search specific fields.",
+      "Description": "Ever wondered how many of your Twitter followers are web developers? Paging through twenty at a time and looking at bios is too slow to be worth answering that question. Using TweepSearch, you can quickly find that answer’ and several others you’ll come up with after you see how easy it is. The TweepSearch API is available to developers wishing to query the TweepSearch database in a programmatic fashion. The RESTful API, like the website, supports a number of search operators, returns stemmed results unless otherwise specified, can search specific fields.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -140113,7 +140113,7 @@
     },
     {
       "API Name": "UMapper",
-      "Description": "UMapper allows users to create embeddable Flash maps. The API provides the tools to help integrate the various features into websites or apps. The basic features are offered for free, and developers can pay to get more premium content in the API. From their site: \"UMapper is the first application of its kind; it is a visual, universal, web-based map authoring application. UMapper makes it easier than ever to create embeddable maps for Adobe Flashï¿½ and distribute them through a website, blog, or social network. UMapperï¿½s visual map editor enables users of any skill level to add points, draw shapes and add interactive overlays to a map.\"",
+      "Description": "UMapper allows users to create embeddable Flash maps. The API provides the tools to help integrate the various features into websites or apps. The basic features are offered for free, and developers can pay to get more premium content in the API. From their site: \"UMapper is the first application of its kind; it is a visual, universal, web-based map authoring application. UMapper makes it easier than ever to create embeddable maps for Adobe Flash’ and distribute them through a website, blog, or social network. UMapper’s visual map editor enables users of any skill level to add points, draw shapes and add interactive overlays to a map.\"",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
@@ -146563,7 +146563,7 @@
     },
     {
       "API Name": "vzaar",
-      "Description": "vzaar allows businesses to upload video to the vzaar platform. From there, vzaar streams the video to the business website or online market product listings. vzaar hosts their own video player for embedding content on the web. vzaar is intended for ecommerce usage. The vzaar API exposes vzaarï¿½s key features to web applications that would like to build custom solutions on top of the vzaar video platform.",
+      "Description": "vzaar allows businesses to upload video to the vzaar platform. From there, vzaar streams the video to the business website or online market product listings. vzaar hosts their own video player for embedding content on the web. vzaar is intended for ecommerce usage. The vzaar API exposes vzaar’s key features to web applications that would like to build custom solutions on top of the vzaar video platform.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
