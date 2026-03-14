@@ -1,5 +1,5 @@
 {
-  "count": 15543,
+  "count": 15545,
   "entries": [
     {
       "API Name": "(a9t9) OCR",
@@ -4009,6 +4009,16 @@
       "Cors": "",
       "Documentation Link": "https://airlabs.co/?docs",
       "Category": "Transportation",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "AirlineStream Airline Logos API",
+      "Description": "AirlineStreamAPI is a RESTful service designed to deliver airline logos quickly and reliably for travel websites, booking systems, and aviation-related applications. The API uses API key authentication and allows developers to retrieve logo assets through simple HTTP requests.\nThe service provides both square and rectangular airline logos in several image formats such as PNG, JPG, GIF, and SVG. Logos are accessible using airline IATA or ICAO codes.",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "unknown",
+      "Documentation Link": "https://airlinestream.dev/docs",
+      "Category": "Other",
       "Pricing": "unknown"
     },
     {
@@ -110779,6 +110789,16 @@
       "Cors": "",
       "Documentation Link": "https://readme.io",
       "Category": "Development",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Readme SnapValid",
+      "Description": "SnapValid Email Validation API Documentation\n\nWelcome to the SnapValid Email Validation API documentation.\n\nSnapValid provides a powerful and reliable RESTful API that allows you to validate email addresses in real-time. You can integrate our API into your website, mobile app, or backend system to verify email addresses at the point of collection, improving data quality and reducing bounce rates.",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "no",
+      "Documentation Link": "https://snapvalid.readme.io/reference/snapvalid-api-documentation",
+      "Category": "Email",
       "Pricing": "unknown"
     },
     {
