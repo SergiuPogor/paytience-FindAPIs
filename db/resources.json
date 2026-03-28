@@ -1,5 +1,5 @@
 {
-  "count": 15545,
+  "count": 15546,
   "entries": [
     {
       "API Name": "(a9t9) OCR",
@@ -72579,6 +72579,16 @@
       "Cors": "",
       "Documentation Link": "https://www.ispeech.org/api",
       "Category": "Development",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "iSports API",
+      "Description": "iSports API is a trusted sports data provider that delivers real-time and historical data for football and basketball. We offer structured JSON data feeds covering live scores, fixtures, results, player statistics, team data, standings, match insights, database and odds. It is designed for developers building sports media platforms, betting applications, fantasy sports products, and analytics tools.",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "no",
+      "Documentation Link": "https://www.isportsapi.com/en/docs.html",
+      "Category": "Sports & Fitness",
       "Pricing": "unknown"
     },
     {
