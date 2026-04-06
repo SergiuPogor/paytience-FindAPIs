@@ -1,5 +1,5 @@
 {
-  "count": 15546,
+  "count": 15516,
   "entries": [
     {
       "API Name": "(a9t9) OCR",
@@ -1089,16 +1089,6 @@
       "Cors": "",
       "Documentation Link": "https://www.abstractapi.com/docs",
       "Category": "Data Validation",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Abstract",
-      "Description": "Abstract is a platform dedicated to centralize Sketch and Adobe XD files in a collaborative fashion to improve team decision making. Abstract features version control for design teams, onboarding, design process management, design branching, feedback tools, and Git-inspired workflows that bridge the communication gap between design and development. Webhooks are implemented to enable notifications across Abstract.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://www.goabstract.com/",
-      "Category": "Other",
       "Pricing": "unknown"
     },
     {
@@ -3162,16 +3152,6 @@
       "Pricing": "unknown"
     },
     {
-      "API Name": "Afterbanks",
-      "Description": "La estandarización de la conexión con cualquier banco en tiempo real.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://afterbanks.com",
-      "Category": "Finance",
-      "Pricing": "unknown"
-    },
-    {
       "API Name": "Afterpay",
       "Description": "The Afterpay API returns payment configuration data in JSON format. With the API, developers can implement amounts, orders, payment ranges, and models. Developers can authenticate with an API Key. Afterpay is a service for buying retail goods on credit in four equal, interest-free installments.",
       "Auth": "",
@@ -4532,16 +4512,6 @@
       "Pricing": "unknown"
     },
     {
-      "API Name": "Algolia",
-      "Description": "Fast, typo-tolerant search and discovery for apps and websites.",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://www.algolia.com/doc",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
       "API Name": "Algorithmia",
       "Description": "The Algorithmia API gives developers the ability to build applications that interact with calling algorithms and using Algorithmia's features in an automated fashion. Algorithmia is a service that aims to create a shared knowledge base from algorithm developers worldwide.",
       "Auth": "",
@@ -4950,16 +4920,6 @@
       "Documentation Link": "https://docs.alpaca.markets",
       "Category": "Finance",
       "Pricing": "unknown"
-    },
-    {
-      "API Name": "Alpha Vantage",
-      "Description": "Realtime and historical stock data",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://www.alphavantage.co/",
-      "Category": "Finance",
-      "Pricing": "free"
     },
     {
       "API Name": "Alpha Vantage",
@@ -8102,16 +8062,6 @@
       "Pricing": "unknown"
     },
     {
-      "API Name": "Apple App Store Connect",
-      "Description": "App Store Connect API API",
-      "Auth": "Bearer",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://apple.com",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
       "API Name": "Apple Business Chat",
       "Description": "Business Chat is designed to allow Apple users to engage with businesses in a private, secure environment leveraging the rich Apple ecosystem of hardware, software, and services to provide the best experince for customer support and conversational commerce.\nSpecific key features include Apple Pay for conversational commerce, in-line authentication with OAuth or iMessage apps, Calendar app integration, Maps integration, AR object support, and more.",
       "Auth": "",
@@ -10019,16 +9969,6 @@
       "Cors": "",
       "Documentation Link": "https://github.com/AucklandMuseum/API",
       "Category": "Open Data",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Auckland Museum",
-      "Description": "This is technical documentation for the Auckland Museum API",
-      "Auth": "",
-      "HTTPS": false,
-      "Cors": "",
-      "Documentation Link": "http://www.aucklandmuseum.com",
-      "Category": "Development",
       "Pricing": "unknown"
     },
     {
@@ -13792,16 +13732,6 @@
       "Pricing": "free"
     },
     {
-      "API Name": "Bandsintown",
-      "Description": "# What is the Bandsintown API?\nThe Bandsintown API is designed for artists and enterprises representing artists.\n\nIt offers read-only access to artist info and artist events:\n- artist info: returns the link to the Bandsintown artist page, the link to the artist photo, the current number of trackers and more\n- artist events: returns the list of events including their date and time, venue name and location, ticket links, lineup, description and the link to the Bandsintown event page\n\nNote you can specify if you only want to return upcoming events, past events, all events, or events within a given date range.\n\n# Getting Started\n- In order to use the Bandsintown API, you must read and accept our Terms and Conditions below and you must have written consent from Bandsintown Inc. Any other use of the Bandsintown API is prohibited. [Contact Bandsintown](http://help.bandsintown.com/) to tell us what you plan to do and request your personal application ID.\n- Find out about the API methods available and the format of the API responses below. Select the method you wish to use and try it out online with the app ID provided to you.\n- Call our Bandsintown API with the app ID provided straight from your website or back-end platform and choose which element of the API response you wish to display. Scroll to the bottom of this page to find out about the Models used.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://bandsintown.com/",
-      "Category": "Geocoding",
-      "Pricing": "unknown"
-    },
-    {
       "API Name": "Bandwidth Messaging",
       "Description": "The Bandwidth Messaging API is a Rest service that allows you to send both single SMS/MMS messages as well as Group SMS/MMS Messages. It provides a way to send a text message to a single number and send a text message to a group MMS. This API supports JSON callbacks, however, the 2.0 version does not keep any records for future access. Bandwidth is a communication service that allows users to add voice and SMS services to software and applications that may include; access to local numbers, and scalable pricing, information about an account, a list of transactions made on an account, calls for phone numbers, messages and more.",
       "Auth": "",
@@ -16232,16 +16162,6 @@
       "Pricing": "unknown"
     },
     {
-      "API Name": "Big Red Cloud",
-      "Description": "<div style='line-height: 30px;'>\r\n    <strong>Welcome to the Big Red Cloud API</strong><br/>\r\n    This API enables programmatic access to Big Red Cloud data.<br/>\r\n    We have used Swagger to auto generate the API documentation on this page, and it also enables direct interaction with the API in this page. <br/>\r\n    To get started, you will require an API Key - check out our guide at <a target='_blank' href='https://www.bigredcloud.com/support/generating-api-key-guide/'>https://www.bigredcloud.com/support/generating-api-key-guide/</a> for information on how to get one. <br/>\r\n    Use the  'Enter API Key' button below to enter your API key and start interacting with your Big Red Cloud data right on this page. <br/>\r\n    The API key will be stored in your browsers local storage for convenience, but you will be able to delete it at any time if you wish. <br/>\r\n    For additional information on the API, check out our support article at <a target='_blank' href='https://www.bigredcloud.com/support/api/'>https://www.bigredcloud.com/support/api/</a><br/>\r\n</div>",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://bigredcloud.com",
-      "Category": "News",
-      "Pricing": "unknown"
-    },
-    {
       "API Name": "BigBlueButton",
       "Description": "The BigBlueButton integrates chat, polls, emojis, playback, whiteboard, desktop sharing, WebRTC, presentations, and web cams into online learning services. It is available in JSON & XML formats with shared secret.",
       "Auth": "",
@@ -17270,16 +17190,6 @@
       "Documentation Link": "https://developer.atlassian.com/bitbucket/api/2/reference/",
       "Category": "Development",
       "Pricing": "free"
-    },
-    {
-      "API Name": "Bitbucket",
-      "Description": "Code against the Bitbucket API to automate simple tasks, embed Bitbucket data into your own site, build mobile or desktop apps, or even add custom UI add-ons into Bitbucket itself using the Connect framework.",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://support.atlassian.com/bitbucket-cloud/",
-      "Category": "Machine Learning",
-      "Pricing": "unknown"
     },
     {
       "API Name": "Bitcambio",
@@ -18969,16 +18879,6 @@
       "Cors": "",
       "Documentation Link": "https://api.boats.com/docs/services/details?s=inventory",
       "Category": "Open Data",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Bob's Burgers",
-      "Description": "Bob's Burgers API",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "yes",
-      "Documentation Link": "https://bobs-burgers-api-ui.herokuapp.com",
-      "Category": "Other",
       "Pricing": "unknown"
     },
     {
@@ -25532,16 +25432,6 @@
       "Pricing": "unknown"
     },
     {
-      "API Name": "Cisco PSIRT openVuln",
-      "Description": "The Cisco Product Security Incident Response Team (PSIRT) openVuln API is a RESTful API that allows customers to obtain Cisco Security Vulnerability information in different machine-consumable formats. APIs are important for customers because they allow their technical staff and programmers to build tools that help them do their job more effectively (in this case, to keep up with security vulnerability information).\nFor more information about the Cisco PSIRT openVuln API visit https://developer.cisco.com/site/PSIRT/discover/overview\n\nFor detail steps on how to use the API go to:https://developer.cisco.com/site/PSIRT/get-started/getting-started.gsp\n\nThis is a beta release of a swagger YAML for the Cisco PSIRT openVuln API\n\nTo access the API sign in with your Cisco CCO account at http://apiconsole.cisco.com and register an application\nto recieve a client_id and a client_secret\n\nYou can then get your token using curl or any other method you prefer.\n\n'curl -s -k -H \"Content-Type: application/x-www-form-urlencoded\" -X POST -d \"client_id=<your_client_id>\" -d \"client_secret=<your_client_secret>\" -d \"grant_type=client_credentials\" https://cloudsso.cisco.com/as/token.oauth2'\n\nYou will receive an access token as demonstrated in the following example:\n '{\"access_token\":\"I7omWtBDAieSiUX3shOxNJfuy4J6\",\"token_type\":\"Bearer\",\"expires_in\":3599}'\n\nIn Swagger, click on Change Authentication\n\nenter the text \"I7omWtBDAieSiUX3shOxNJfuy4J6\" (which is the token you received)\n\nthen click on \"Try this operation\"",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://cisco.com",
-      "Category": "News",
-      "Pricing": "unknown"
-    },
-    {
       "API Name": "Cisco Spark",
       "Description": "Team Collaboration Software",
       "Auth": "OAuth",
@@ -28299,16 +28189,6 @@
       "Cors": "",
       "Documentation Link": "http://www.clubtexting.com/sms-gateway/bulk-sms-api-rest.html",
       "Category": "Social",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Clubhouse",
-      "Description": "Clubhouse is a project management platform designed to support software developers. The Clubhouse API is a REST service that provides a way to build custom integrations and automate workflow. It allows you to return a list of all Categories, create a threaded comment on an epic, return a list of all Milestones, update Story properties and includes services for; Categories, Epics, Milestones, Stories and more.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://clubhouse.io/api/rest/v2",
-      "Category": "Development",
       "Pricing": "unknown"
     },
     {
@@ -34612,16 +34492,6 @@
       "Pricing": "unknown"
     },
     {
-      "API Name": "DaniWeb Connect",
-      "Description": "User Recommendation Engine and Chat Network",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://www.daniweb.com/members/1/dani",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
       "API Name": "Dansk Supermarked",
       "Description": "The Salling Group API, a Danish Retailer in Denmark, Sweden, Poland and Germany provides a Web API that serves geocoded store information incl. opening hours for Netto, Bilka and føtex retail stores. The API also provides information for in-store events, job postings and a convenient holidays API for getting Danish holidays dates.",
       "Auth": "",
@@ -36913,16 +36783,6 @@
     },
     {
       "API Name": "Detect Language",
-      "Description": "Detects text language",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://detectlanguage.com/",
-      "Category": "Text Analysis",
-      "Pricing": "free"
-    },
-    {
-      "API Name": "Detect Language",
       "Description": "This API detects the language from any text (+ 50 languages supported)",
       "Auth": "apiKey",
       "HTTPS": true,
@@ -38052,26 +37912,6 @@
       "Pricing": "unknown"
     },
     {
-      "API Name": "DigitalNZ",
-      "Description": "OpenAPI specification of DigitalNZ's Record API.  \nFor more information about the API see [digitalnz.org/developers](https://digitalnz.org/developers).  \nTo learn more about the metadata/fields used in the API see the [Metadata Dictionary](https://docs.google.com/document/pub?id=1Z3I_ckQWjnQQ4SzpORbClcIXUheO-Jd4jt-oZFuMcoQ).  \nTo get a sense of what content is available via the API take a look at the search feature on the [DigitalNZ website](https://digitalnz.org/records?text=all%20sorts&tab=Images).  \nThe [terms of use](https://digitalnz.org/about/terms-of-use/developer-api-terms-of-use) specify how developers can use the DigitalNZ API.",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://digitalnz.org",
-      "Category": "Video",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "DigitalOcean",
-      "Description": "# Introduction\n\nThe DigitalOcean API allows you to manage Droplets and resources within the\nDigitalOcean cloud in a simple, programmatic way using conventional HTTP requests.\n\nAll of the functionality that you are familiar with in the DigitalOcean\ncontrol panel is also available through the API, allowing you to script the\ncomplex actions that your situation requires.\n\nThe API documentation will start with a general overview about the design\nand technology that has been implemented, followed by reference information\nabout specific endpoints.\n\n## Requests\n\nAny tool that is fluent in HTTP can communicate with the API simply by\nrequesting the correct URI. Requests should be made using the HTTPS protocol\nso that traffic is encrypted. The interface responds to different methods\ndepending on the action required.\n\n|Method|Usage|\n|--- |--- |\n|GET|For simple retrieval of information about your account, Droplets, or environment, you should use the GET method.  The information you request will be returned to you as a JSON object. The attributes defined by the JSON object can be used to form additional requests.  Any request using the GET method is read-only and will not affect any of the objects you are querying.|\n|DELETE|To destroy a resource and remove it from your account and environment, the DELETE method should be used.  This will remove the specified object if it is found.  If it is not found, the operation will return a response indicating that the object was not found. This idempotency means that you do not have to check for a resource's availability prior to issuing a delete command, the final state will be the same regardless of its existence.|\n|PUT|To update the information about a resource in your account, the PUT method is available. Like the DELETE Method, the PUT method is idempotent.  It sets the state of the target using the provided values, regardless of their current values. Requests using the PUT method do not need to check the current attributes of the object.|\n|PATCH|Some resources support partial modification. In these cases, the PATCH method is available. Unlike PUT which generally requires a complete representation of a resource, a PATCH request is is a set of instructions on how to modify a resource updating only specific attributes.|\n|POST|To create a new object, your request should specify the POST method. The POST request includes all of the attributes necessary to create a new object.  When you wish to create a new object, send a POST request to the target endpoint.|\n|HEAD|Finally, to retrieve metadata information, you should use the HEAD method to get the headers.  This returns only the header of what would be returned with an associated GET request. Response headers contain some useful information about your API access and the results that are available for your request. For instance, the headers contain your current rate-limit value and the amount of time available until the limit resets. It also contains metrics about the total number of objects found, pagination information, and the total content length.|\n\n\n## HTTP Statuses\n\nAlong with the HTTP methods that the API responds to, it will also return\nstandard HTTP statuses, including error codes.\n\nIn the event of a problem, the status will contain the error code, while the\nbody of the response will usually contain additional information about the\nproblem that was encountered.\n\nIn general, if the status returned is in the 200 range, it indicates that\nthe request was fulfilled successfully and that no error was encountered.\n\nReturn codes in the 400 range typically indicate that there was an issue\nwith the request that was sent. Among other things, this could mean that you\ndid not authenticate correctly, that you are requesting an action that you\ndo not have authorization for, that the object you are requesting does not\nexist, or that your request is malformed.\n\nIf you receive a status in the 500 range, this generally indicates a\nserver-side problem. This means that we are having an issue on our end and\ncannot fulfill your request currently.\n\n400 and 500 level error responses will include a JSON object in their body,\nincluding the following attributes:\n\n|Name|Type|Description|\n|--- |--- |--- |\n|id|string|A short identifier corresponding to the HTTP status code returned. For example, the ID for a response returning a 404 status code would be \"not_found.\"|\n|message|string|A message providing additional information about the error, including details to help resolve it when possible.|\n|request_id|string|Optionally, some endpoints may include a request ID that should be provided when reporting bugs or opening support tickets to help identify the issue.|\n\n### Example Error Response\n\n```\n    HTTP/1.1 403 Forbidden\n    {\n      \"id\":       \"forbidden\",\n      \"message\":  \"You do not have access for the attempted action.\"\n    }\n```\n\n## Responses\n\nWhen a request is successful, a response body will typically be sent back in\nthe form of a JSON object. An exception to this is when a DELETE request is\nprocessed, which will result in a successful HTTP 204 status and an empty\nresponse body.\n\nInside of this JSON object, the resource root that was the target of the\nrequest will be set as the key. This will be the singular form of the word\nif the request operated on a single object, and the plural form of the word\nif a collection was processed.\n\nFor example, if you send a GET request to `/v2/droplets/$DROPLET_ID` you\nwill get back an object with a key called \"`droplet`\". However, if you send\nthe GET request to the general collection at `/v2/droplets`, you will get\nback an object with a key called \"`droplets`\".\n\nThe value of these keys will generally be a JSON object for a request on a\nsingle object and an array of objects for a request on a collection of\nobjects.\n\n### Response for a Single Object\n\n```\n    {\n        \"droplet\": {\n            \"name\": \"example.com\"\n            . . .\n        }\n    }\n```\n\n### Response for an Object Collection\n\n```\n    {\n        \"droplets\": [\n            {\n                \"name\": \"example.com\"\n                . . .\n            },\n            {\n                \"name\": \"second.com\"\n                . . .\n            }\n        ]\n    }\n```\n\n## Meta\n\nIn addition to the main resource root, the response may also contain a\n`meta` object. This object contains information about the response itself.\n\nThe `meta` object contains a `total` key that is set to the total number of\nobjects returned by the request. This has implications on the `links` object\nand pagination.\n\nThe `meta` object will only be displayed when it has a value. Currently, the\n`meta` object will have a value when a request is made on a collection (like\n`droplets` or `domains`).\n\n\n### Sample Meta Object\n\n```\n    {\n        . . .\n        \"meta\": {\n            \"total\": 43\n        }\n        . . .\n    }\n```\n\n## Links & Pagination\n\nThe `links` object is returned as part of the response body when pagination\nis enabled. By default, 20 objects are returned per page. If the response\ncontains 20 objects or fewer, no `links` object will be returned. If the\nresponse contains more than 20 objects, the first 20 will be returned along\nwith the `links` object.\n\nYou can request a different pagination limit or force pagination by\nappending `?per_page=` to the request with the number of items you would\nlike per page. For instance, to show only two results per page, you could\nadd `?per_page=2` to the end of your query. The maximum number of results\nper page is 200.\n\nThe `links` object contains a `pages` object. The `pages` object, in turn,\ncontains keys indicating the relationship of additional pages. The values of\nthese are the URLs of the associated pages. The keys will be one of the\nfollowing:\n\n*   **first**: The URI of the first page of results.\n*   **prev**: The URI of the previous sequential page of results.\n*   **next**: The URI of the next sequential page of results.\n*   **last**: The URI of the last page of results.\n\nThe `pages` object will only include the links that make sense. So for the\nfirst page of results, no `first` or `prev` links will ever be set. This\nconvention holds true in other situations where a link would not make sense.\n\n### Sample Links Object\n\n```\n    {\n        . . .\n        \"links\": {\n            \"pages\": {\n                \"last\": \"https://api.digitalocean.com/v2/images?page=2\",\n                \"next\": \"https://api.digitalocean.com/v2/images?page=2\"\n            }\n        }\n        . . .\n    }\n```\n\n## Rate Limit\n\nRequests through the API are rate limited per OAuth token. Current rate limits:\n\n*   5,000 requests per hour\n*   250 requests per minute (5% of the hourly total)\n\nOnce you exceed either limit, you will be rate limited until the next cycle\nstarts. Space out any requests that you would otherwise issue in bursts for\nthe best results.\n\nThe rate limiting information is contained within the response headers of\neach request. The relevant headers are:\n\n*   **ratelimit-limit**: The number of requests that can be made per hour.\n*   **ratelimit-remaining**: The number of requests that remain before you hit your request limit. See the information below for how the request limits expire.\n*   **ratelimit-reset**: This represents the time when the oldest request will expire. The value is given in [Unix epoch time](http://en.wikipedia.org/wiki/Unix_time). See below for more information about how request limits expire.\n\nAs long as the `ratelimit-remaining` count is above zero, you will be able\nto make additional requests.\n\nThe way that a request expires and is removed from the current limit count\nis important to understand. Rather than counting all of the requests for an\nhour and resetting the `ratelimit-remaining` value at the end of the hour,\neach request instead has its own timer.\n\nThis means that each request contributes toward the `ratelimit-remaining`\ncount for one complete hour after the request is made. When that request's\ntimer runs out, it is no longer counted towards the request limit.\n\nThis has implications on the meaning of the `ratelimit-reset` header as\nwell. Because the entire rate limit is not reset at one time, the value of\nthis header is set to the time when the _oldest_ request will expire.\n\nKeep this in mind if you see your `ratelimit-reset` value change, but not\nmove an entire hour into the future.\n\nIf the `ratelimit-remaining` reaches zero, subsequent requests will receive\na 429 error code until the request reset has been reached. You can see the\nformat of the response in the examples.\n\n**Note:** The following endpoints have special rate limit requirements that\nare independent of the limits defined above.\n\n*   Only 12 `POST` requests to the `/v2/floating_ips` endpoint to create Floating IPs can be made per 60 seconds.\n*   Only 10 `GET` requests to the `/v2/account/keys` endpoint to list SSH keys can be made per 60 seconds.\n*   Only 5 requests to any and all `v2/cdn/endpoints` can be made per 10 seconds. This includes `v2/cdn/endpoints`, \n    `v2/cdn/endpoints/$ENDPOINT_ID`, and `v2/cdn/endpoints/$ENDPOINT_ID/cache`.\n*   Only 50 strings within the `files` json struct in the `v2/cdn/endpoints/$ENDPOINT_ID/cache` [payload](https://docs.digitalocean.com/reference/api/api-reference/#operation/cdn_purge_cache) \n    can be requested every 20 seconds.\n\n### Sample Rate Limit Headers\n\n```\n    . . .\n    ratelimit-limit: 1200\n    ratelimit-remaining: 1193\n    rateLimit-reset: 1402425459\n    . . .\n```\n\n### Sample Rate Exceeded Response\n\n```\n    429 Too Many Requests\n    {\n            id: \"too_many_requests\",\n            message: \"API Rate limit exceeded.\"\n    }\n```\n\n## Curl Examples\n\nThroughout this document, some example API requests will be given using the\n`curl` command. This will allow us to demonstrate the various endpoints in a\nsimple, textual format.\n  \n  These examples assume that you are using a Linux or macOS command line. To run\nthese commands on a Windows machine, you can either use cmd.exe, PowerShell, or WSL:\n\n* For cmd.exe, use the `set VAR=VALUE` [syntax](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/set_1)\nto define environment variables, call them with `%VAR%`, then replace all backslashes (`\\`) in the examples with carets (`^`).\n\n* For PowerShell, use the `$Env:VAR = \"VALUE\"` [syntax](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_environment_variables?view=powershell-7.2)\nto define environment variables, call them with `$Env:VAR`, then replace `curl` with `curl.exe` and all backslashes (`\\`) in the examples with backticks (`` ` ``).\n\n* WSL is a compatibility layer that allows you to emulate a Linux terminal on a Windows machine.\nInstall WSL with our [community tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-the-windows-subsystem-for-linux-2-on-microsoft-windows-10), \nthen follow this API documentation normally.\n\nThe names of account-specific references (like Droplet IDs, for instance)\nwill be represented by variables. For instance, a Droplet ID may be\nrepresented by a variable called `$DROPLET_ID`. You can set the associated\nvariables in your environment if you wish to use the examples without\nmodification.\n\nThe first variable that you should set to get started is your OAuth\nauthorization token. The next section will go over the details of this, but\nyou can set an environmental variable for it now.\n\nGenerate a token by going to the [Apps & API](https://cloud.digitalocean.com/settings/applications)\nsection of the DigitalOcean control panel. Use an existing token if you have\nsaved one, or generate a new token with the \"Generate new token\" button.\nCopy the generated token and use it to set and export the TOKEN variable in\nyour environment as the example shows.\n\nYou may also wish to set some other variables now or as you go along. For\nexample, you may wish to set the `DROPLET_ID` variable to one of your\nDroplet IDs since this will be used frequently in the API.\n\nIf you are following along, make sure you use a Droplet ID that you control\nso that your commands will execute correctly.\n\nIf you need access to the headers of a response through `curl`, you can pass\nthe `-i` flag to display the header information along with the body. If you\nare only interested in the header, you can instead pass the `-I` flag, which\nwill exclude the response body entirely.\n\n\n### Set and Export your OAuth Token\n\n```\nexport DIGITALOCEAN_TOKEN=your_token_here\n```\n\n### Set and Export a Variable\n\n```\nexport DROPLET_ID=1111111\n```\n\n## Parameters\n\nThere are two different ways to pass parameters in a request with the API.\n\nWhen passing parameters to create or update an object, parameters should be\npassed as a JSON object containing the appropriate attribute names and\nvalues as key-value pairs. When you use this format, you should specify that\nyou are sending a JSON object in the header. This is done by setting the\n`Content-Type` header to `application/json`. This ensures that your request\nis interpreted correctly.\n\nWhen passing parameters to filter a response on GET requests, parameters can\nbe passed using standard query attributes. In this case, the parameters\nwould be embedded into the URI itself by appending a `?` to the end of the\nURI and then setting each attribute with an equal sign. Attributes can be\nseparated with a `&`. Tools like `curl` can create the appropriate URI when\ngiven parameters and values; this can also be done using the `-F` flag and\nthen passing the key and value as an argument. The argument should take the\nform of a quoted string with the attribute being set to a value with an\nequal sign.\n\n### Pass Parameters as a JSON Object\n\n```\n    curl -H \"Authorization: Bearer $DIGITALOCEAN_TOKEN\" \\\n        -H \"Content-Type: application/json\" \\\n        -d '{\"name\": \"example.com\", \"ip_address\": \"127.0.0.1\"}' \\\n        -X POST \"https://api.digitalocean.com/v2/domains\"\n```\n\n### Pass Filter Parameters as a Query String\n\n```\n     curl -H \"Authorization: Bearer $DIGITALOCEAN_TOKEN\" \\\n         -X GET \\\n         \"https://api.digitalocean.com/v2/images?private=true\"\n```\n\n## Cross Origin Resource Sharing\n\nIn order to make requests to the API from other domains, the API implements\nCross Origin Resource Sharing (CORS) support.\n\nCORS support is generally used to create AJAX requests outside of the domain\nthat the request originated from. This is necessary to implement projects\nlike control panels utilizing the API. This tells the browser that it can\nsend requests to an outside domain.\n\nThe procedure that the browser initiates in order to perform these actions\n(other than GET requests) begins by sending a \"preflight\" request. This sets\nthe `Origin` header and uses the `OPTIONS` method. The server will reply\nback with the methods it allows and some of the limits it imposes. The\nclient then sends the actual request if it falls within the allowed\nconstraints.\n\nThis process is usually done in the background by the browser, but you can\nuse curl to emulate this process using the example provided. The headers\nthat will be set to show the constraints are:\n\n*   **Access-Control-Allow-Origin**: This is the domain that is sent by the client or browser as the origin of the request. It is set through an `Origin` header.\n*   **Access-Control-Allow-Methods**: This specifies the allowed options for requests from that domain. This will generally be all available methods.\n*   **Access-Control-Expose-Headers**: This will contain the headers that will be available to requests from the origin domain.\n*   **Access-Control-Max-Age**: This is the length of time that the access is considered valid. After this expires, a new preflight should be sent.\n*   **Access-Control-Allow-Credentials**: This will be set to `true`. It basically allows you to send your OAuth token for authentication.\n\nYou should not need to be concerned with the details of these headers,\nbecause the browser will typically do all of the work for you.",
-      "Auth": "Bearer",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://digitalocean.com",
-      "Category": "Geocoding",
-      "Pricing": "unknown"
-    },
-    {
       "API Name": "DigitalOcean",
       "Description": "DigitalOcean provides a simple, cloud based virtual server (droplet) service. With over 13,000 cloud servers currently in operation, DigitalOcean is a well-established provider of online storage solutions with fast, realtime control. With a streamlined interface, users are able to create and start utilizing a virtual server in under a minute.\nThe API provides all the same services as the web control panel to allow full control over your Droplet virtual servers. Using a simple, REST interface you can make calls for: shutting down, power cycling your virtual server, show all active droplets, take a snapshot, rebuild your droplet, and more. The API supports all major droplet functions allowing you to effectively run your server through the API.",
       "Auth": "",
@@ -38820,16 +38660,6 @@
       "Documentation Link": "https://docs.docker.com/docker-hub/api/latest/",
       "Category": "Development",
       "Pricing": "free"
-    },
-    {
-      "API Name": "Docker HUB",
-      "Description": "Docker Hub is a service provided by Docker for finding and sharing container\nimages with your team.\n\nIt is the world's largest library and community for container images.\n\nIn addition to the [Docker Hub UI](https://docs.docker.com/docker-hub/) and [Docker Hub CLI tool](https://github.com/docker/hub-tool#readme) (currently experimental),\n\nDocker provides an API that allows you to interact with Docker Hub.\n\nBrowse through the Docker Hub API documentation to explore the supported endpoints.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://docker.com",
-      "Category": "Video",
-      "Pricing": "unknown"
     },
     {
       "API Name": "Docker Hub Accounts",
@@ -39722,16 +39552,6 @@
       "Pricing": "unknown"
     },
     {
-      "API Name": "DRACOON",
-      "Description": "REST Web Services for DRACOON<br><br>This page provides an overview of all available and documented DRACOON APIs, which are grouped by tags.<br>Each tag provides a collection of APIs that are intended for a specific area of the DRACOON.<br><br><a title='Developer Information' href='https://developer.dracoon.com'>Developer Information</a>&emsp;&emsp;<a title='Get SDKs on GitHub' href='https://github.com/dracoon'>Get SDKs on GitHub</a><br><br><a title='Terms of service' href='https://www.dracoon.com/terms/general-terms-and-conditions/'>Terms of service</a>",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://dracoon.team",
-      "Category": "Machine Learning",
-      "Pricing": "unknown"
-    },
-    {
       "API Name": "Dragon Ball",
       "Description": "An easy to use Dragon Ball API",
       "Auth": "",
@@ -39759,16 +39579,6 @@
       "Cors": "",
       "Documentation Link": "http://support.drawloop.com/api",
       "Category": "Documents & Productivity",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Drchrono",
-      "Description": "This document is intended as a detailed reference for the precise behavior of\nthe drchrono API. If this is your first time using the API, start with our <a href=\"/api-docs-old/tutorial\">tutorial</a>. If you are upgrading from a previous version, take a look at the changelog section.\n\n# Authorization\n\n## Initial authorization\n\nThere are three main steps in the OAuth 2.0 authentication workflow:\n\n1. Redirect the provider to the authorization page.\n2. The provider authorizes your application and is redirected back to\n   your web application.\n3. Your application exchanges the `authorization_code` that came with\n   the redirect for an `access_token` and `refresh_token`.\n\n### Step 1: Redirect to drchrono\n\nThe first step is redirecting your user to drchrono, typically with a button\nlabeled \"Connect to drchrono\" or \"Login with drchrono\".  This is just a link that\ntakes your user to the following URL:\n\n    https://drchrono.com/o/authorize/?redirect_uri=REDIRECT_URI_ENCODED&response_type=code&client_id=CLIENT_ID_ENCODED&scope=SCOPES_ENCODED\n\n- `REDIRECT_URI_ENCODED` is the URL-encoded version of the redirect URI (as registered for your application and used in later steps).\n- `CLIENT_ID_ENCODED` is the URL-encoded version of your application's client ID.\n- `SCOPES_ENCODED` is a URL-encoded version of a space-separated list of scopes, which can be found in each endpoint or omitted to default to all scopes.\n\nThe `scope` parameter consists of an optional, space-separated list of scopes your application is requesting.\nIf omitted, all scopes will be requested.\n\nScopes are of the form `BASE_SCOPE:[read|write]` where `BASE_SCOPE` is any of `user`, `calendar`, `patients`, `patients:summary`, `billing`, `clinical` and `labs`.\nYou should request only the scopes you need.\nFor instance, an application which sends \"Happy Birthday!\" emails to a doctor's patients on their birthdays would use the scope parameter `\"patients:summary:read\"`,\nwhile one that allows patients to schedule appointments online would need at least\n`\"patients:summary:read patients:summary:write calendar:read calendar:write clinical:read clinical:write\"`.\n\n### Step 2: Provider authorization\n\nAfter logging in (if necessary), the provider will be presented with a screen\nwith your application's name and the list of permissions you requested (via the\n`scope` parameter).\n\nWhen they click the \"Authorize\" button, they will be redirected to your redirect\nURI with a `code` query parameter appended, which contains an authorization code to be\nused in step 3.  If they click the \"Cancel\" button, they will be redirected to\nyour redirect URI with `error=access_denied` instead.\n\nNote: This authorization code expires extremely quickly, so you must perform\nstep 3 immediately, ideally before rendering the resulting page for the end\nuser.\n\n### Step 3: Token exchange\n\nThe `code` obtained from step 2 is usable exactly once to obtain an access token\nand refresh token.  Here is an example token exchange in Python:\n\n    import datetime, pytz, requests\n\n    if 'error' in get_params:\n        raise ValueError('Error authorizing application: %s' % get_params[error])\n\n    response = requests.post('https://drchrono.com/o/token/', data={\n        'code': get_params['code'],\n        'grant_type': 'authorization_code',\n        'redirect_uri': 'http://mytestapp.com/redirect_uri',\n        'client_id': 'abcdefg12345',\n        'client_secret': 'abcdefg12345',\n    })\n    response.raise_for_status()\n    data = response.json()\n\n    # Save these in your database associated with the user\n    access_token = data['access_token']\n    refresh_token = data['refresh_token']\n    expires_timestamp = datetime.datetime.now(pytz.utc) + datetime.timedelta(seconds=data['expires_in'])\n\nYou now have all you need to make API requests authenticated as that provider.\nWhen using this access token, you'll only be able to access the data that the\nuser has access to and that you have been granted permissions for.\n\n## Refreshing an access token\n\nAccess tokens only last 48 hours (given in seconds in the `'expires_in'` key in\nthe token exchange step above), so they occasionally need to be refreshed.  It\nwould be inconvenient to ask the user to re-authorize every time, so instead you\ncan use the refresh token like the original authorization to obtain a new access\ntoken.  Replace the `code` parameter with `refresh_token`, change the value\n`grant_type` from `authorization_code` to `refresh_token`, and omit the\n`redirect_uri` parameter.\n\nExample in Python:\n\n    ...\n    response = requests.post('https://drchrono.com/o/token/', data={\n        'refresh_token': get_refresh_token(),\n        'grant_type': 'refresh_token',\n        'client_id': 'abcdefg12345',\n        'client_secret': 'abcdefg12345',\n    })\n    ...\n\n# Webhooks\n\nIn order to use drchrono API webhooks, you first need to have an API application on file\n(even if it is in Test Model).\nEach API webhook is associated with one API application, go to\n<a href=\"/api-management/\" target=\"_blank\">here</a> to set up both API applications and webhooks!\n\nOnce you registered an API application, you will see webhook section in each saved API applications.\nCreate a webhook and register some events there and save all the changes, then you are good to go!\n\n## Webhooks setup\n\nAll fields under webhooks section are required.\n\n**Callback URL**\nCallback URl is used to receive all hooks when subscribed events are triggered. This should be an URL under your control.\n\n**Secret token**\nSecret token is used to verify webhooks, this is very important, please set something with high entropy. Also we will\ntalk more about this later.\n\n**Events**\n\nEvents is used to register events you want to receiver notification when they happen. Currently we support following events.\n\nEvent name | Event description\n---------- | -----------------\n`APPOINTMENT_CREATE` | We will deliver a hook any time an appointment is created\n`APPOINTMENT_MODIFY` | We will deliver a hook any time an appointment is modified\n`PATIENT_CREATE` | We will deliver a hook any time a patient is created\n`PATIENT_MODIFY` | We will deliver a hook any time a patient is modified\n`PATIENT_PROBLEM_CREATE` | We will deliver a hook any time a patient problem is created\n`PATIENT_PROBLEM_MODIFY` | We will deliver a hook any time a patient problem is modified\n`PATIENT_ALLERGY_CREATE` | We will deliver a hook any time a patient allergy is created\n`PATIENT_ALLERGY_MODIFY` | We will deliver a hook any time a patient allergy is modified\n`PATIENT_MEDICATION_CREATE` | We will deliver a hook any time a patient medication is created\n`PATIENT_MEDICATION_MODIFY` | We will deliver a hook any time a patient medication is modified\n`CLINICAL_NOTE_LOCK` | We will deliver a hook any time a clinical note is locked\n`CLINICAL_NOTE_UNLOCK` | We will deliver a hook any time a clinical note is unlocked\n`TASK_CREATE` | We will deliver a hook any time a task is created\n`TASK_MODIFY` | We will deliver a hook any time a task is modified and any time creation, modification and deletion of task notes, associated task item\n`TASK_DELETE` | We will deliver a hook any time a task is deleted\n\n\n## Webhooks verification\n\nIn order to make sure the callback URL in webhook is under your control, we added a verification\nstep before we send any hooks out to you.\n\nVerification can be done by clicking \"Verify webhook\" button in webhooks setup page. After you click\nthe button, we will send a `GET` request to the callback URL, along with a parameter called `msg`.\n\nPlease use your webhook's secret token as hash key and SHA-256 as digest constructor, hash the `msg` value with\n<a href=\"https://tools.ietf.org/html/rfc2104.html\">HMAC algorithm</a>.\nAnd we expect a `200` JSON response, in JSON response body, there should be a key called `secret_token` existing, and its value should be\nequal to the <strong>hashed</strong> `msg`. Otherwise, verification will fail.\n\nHere is an example webhook verification in Python:\n\n    import hashlib, hmac\n\n    def webhook_verify(request):\n        secret_token = hmac.new(WEBHOOK_SECRET_TOKEN, request.GET['msg'], hashlib.sha256).hexdigest()\n        return json_response({\n            'secret_token': secret_token\n        })\n\n<div class=\"alert alert-warning\">\n<b>Note:</b> Verification will be needed when webhook is first created and anytime callback URl is changed.\n</div>\n\n\n## Webhooks header and body\n\n**Header**\n\nKey | Value\n--- | -----\n`X-drchrono-event` | Event that triggered this hook, could be any one event above or `PING`\n`X-drchrono-signature` | Secret token associated with this webhook\n`X-drchrono-delivery` | ID of this delivery\n\n**Body**\n\nKey | Value\n--- | -----\n`receiver` | This will be an JSON representation of the webhook\n`object` | This will be an JSON representation of the object related to the triggered event, this would share same serializer as drchrono API\n\n## Webhooks ping and deliveries\n\nWebhooks ping and deliveries will be sent as `POST` requests.\n\n**PING**:\n\nYou can always ping your webhook to check things, by clicking the \"Ping webhook\" button in webhook setup page. And a hook with header `X-drchrono-event: PING` would be sent to the callback URL.\n\n**Deliveries**:\n\nYou can check recent deliveries by clicking the \"deliveries\" link in webhook setup page. And you can resend a hook by clicking \"redeliver\" button after select a specific delivery.\n\n## Webhooks delivery mechanism\n\nWe will delivery a hook the moment a subscribed event is triggered. We will not record any response header or body you send back after you receive the hook.\nHowever we only consider the response status code. We will consider any `2xx` responses as successfully delivered.\nAny other responses, like `302` would be considered failing.\nAnd we will try to redeliver unsuccessfully delivered hooks 3 times, first redeliver happens at 1 hour after the initial event,\nsecond receliver happens 3 hours after the initial event, and the third redeliver happens 7 hours after the initial event.\nAfter these redeliveries, if the delivery is still unsuccessful, you have to redeliver it by hand.\n\n\n## Webhooks security\n\nYou may want to secure your webhooks to only consider requests send out from drchrono. And this is where <code>secret_token</code> is needed in\nrequest header.\nTry to set the <code>secret_token</code> to something with high entropy, a good example could be taking the output of\n<code>ruby -rsecurerandom -e 'puts SecureRandom.hex(20)'</code>.\nAfter this, you might want to verify all request headers you received on your server with this token.\n\n\n# iframe integration\n\nSome API apps provide additional functionality for interacting with patient data\nnot offered by drchrono, and can benefit by being incorporated into drchrono's\npatient information page via iframe.  We have created a simple API to make this\npossible.\n\nTo make an existing API application accessible via an iframe on the patient\npage, you need to update either \"Patient iframe\" or \"Clinical note iframe\" section in API management page,\nto make the iframe to appear on (either the patient page or the clinical note page),\nwith the URL that the iframe will use for each page, and the height it should\nhave. The application will be reviewed before it is approved to ensure that it\nis functional and secure.\n\n## Register a Doctor\n\niframe applications will appear as choices on the left-hand menu of the patient\npage for doctors registered with your application.  To register a doctor with\nyour application, make a `POST` request to the `/api/iframe_integration`\nendpoint using the access token for the corresponding doctor. This endpoint does not\nexpect any payload.\n\nTo disable your iframe application for a doctor, make a `DELETE` request to the\nsame endpoint.\n\n## Populating the iframe\n\nThere are two places where the iframe can be displayed, either within the\npatient detail page or the clinical note page, shown below respectively:\n\n<img src=\"\" alt=\"Iframe on the patient page\"/>\n\n<img src=\"\" alt=\"Iframe on the clinical note page\"/>\n\nWhen requesting approval for your iframe app, you must specify a URL for one or\nboth of these pages which will serve as the base URL for your IFrame\ncontents. When a doctor views your iframe, the source URL will have various\nquery parameters appended to it, for example for the patient page the `src`\nparameter of the IFrame will be:\n\n```\n<iframe_url>?doctor_id=<doctor_id>&patient_id=<patient_id>&practice_id=<practice_id>&iat=<iat>&jwt=<jwt>\n```\n\nThe `jwt` parameter is crucial if your application transfers any sort of PHI and\ndoes not implement its own login system.  It encapsulates the other parameters\nin a [JSON web token (JWT)](http://jwt.io) and signs them using SHA-256 HMAC\nwith your `client_secret` as the key.  This verifies that the iframe is being\nloaded within one of drchrono's pages by an authorized user.  In production, you\nshould validate the JWT using an approved library (which are listed on the\n[official site](http://jwt.io)), and only use the parameters extracted from the\nJWT.  Using Python and Django, this might look like:\n\n    import jwt\n\n    CLIENT_SECRET = <client_secret>\n    MAX_TIME_DRIFT_SECONDS = 60\n\n    def validate_parameters(request):\n        token = request.GET['jwt']\n\n        return jwt.decode(token, CLIENT_SECRET, algorithms=['HS256'], leeway=MAX_TIME_DRIFT_SECONDS)\n\nModern browsers' same-origin policy means that data cannot be passed between\nyour application and drchrono's page through the iframe.  Therefore, interaction\nmust happen through the API, using information provided in JWT.\n\n# Versions and deprecation\n\n## Stability Policy\n\nChanges to this API version will be limited to adding endpoints, or adding fields to existing\nendpoints, or adding optional query parameters. Any new fields which are not read-only will be optional.\n\n## Deprecation Policy\n\nThe drchrono API is versioned. Versions can be in the following states:\n\n* **Active:** This is our latest and greatest version of the API. It is actively supported by\nour API team and is improved upon with new features, bug fixes and optimizations that do\nnot break backwards compatibility.\n\n* **Deprecated:** A deprecated API version is considered second best--having been\nsurpassed by our active API version. An API version remains in this state for one year,\nafter which time it falls to the not supported state. A deprecated API version is passively supported;\nwhile it won't be removed until becoming unsupported, it may not receive new features but will likely\nbe subject to security updates and performance improvements.\n\n* **Unsupported:** An API version in the not supported state may be deactivated at any\ntime. An application using an unsupported API version should migrate to an active API version.\n\n## Version Map\n| Version Name | Previous Name | Start Date | Deprecation Date |\n|--------------|---------------|------------|------------------|\n| v2           | v2015_08      | 08/2015    | TBA              |\n| v3           | v2016_06      | 06/2016    |                  |\n| v4           | N/A           | 09/2018    |                  |\n\nIf you are looking for documentation for an older version\n\n- [V4(Hunt Valley)](/api-docs-old/v4/documentation) (old V4 documentation)\n- [V3(Sunnyvale)](/api-docs-old/v3/documentation)\n- [V2(Mountain View)](/api-docs-old/v2/documentation)\n\n# Changelog\n\nHere's changelog for different versions\n\n- [V4 Changelog](/api-docs-old/v4/changelog)\n- [V3 changelog](/api-docs-old/v3/changelog)",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://drchrono.com",
-      "Category": "Finance",
       "Pricing": "unknown"
     },
     {
@@ -40962,16 +40772,6 @@
       "Pricing": "unknown"
     },
     {
-      "API Name": "Ebay Analytics",
-      "Description": "The <b>Analytics API</b> retrieves call-limit data and the quotas that are set for the RESTful APIs and the legacy Trading API.  <br><br>Responses from calls made to <b>getRateLimits</b> and <b>getUerRateLimits</b> include a list of the applicable resources and the \"call limit\", or quota, that is set for each resource. In addition to quota information, the response also includes the number of remaining calls available before the limit is reached, the time remaining before the quota resets, and the length of the \"time window\" to which the quota applies.  <br><br>The <b>getRateLimits</b> and <b>getUserRateLimits</b> methods retrieve call-limit information for either an application or user, respectively, and each method must be called with an appropriate OAuth token. That is, <b>getRateLimites</b> requires an access token generated with a client credentials grant and <b>getUserRateLimites</b> requires an access token generated with an authorization code grant. For more information, see <a href=\"/api-docs/static/oauth-tokens.html\">OAuth tokens</a>.  <br><br>Users can analyze the response data to see whether or not a limit might be reached, and from that determine if any action needs to be taken (such as programmatically throttling their request rate). For more on call limits, see <a href=\"https://developer.ebay.com/support/app-check \" target=\"_blank\">Compatible Application Check</a>.",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://ebay.com",
-      "Category": "Security",
-      "Pricing": "unknown"
-    },
-    {
       "API Name": "eBay Best Match",
       "Description": "eBay's Best Match API enables developers to understand various factors affecting their eBay search ranking when sorted by Best Match. Developers can write applications that help sellers understand their item rank for a given key word, identify factors that impact their listing performance score as well as allow them to analyze their business at a category level.\nThis API uses SOAP, allowing registered developers to generate custom XML responses for their sites, services, and applications.",
       "Auth": "",
@@ -41029,16 +40829,6 @@
       "Cors": "",
       "Documentation Link": "https://developer.ebay.com/devzone/rest/buy/content/marketing/overview.html",
       "Category": "Shopping",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Ebay Buy Marketing",
-      "Description": "The Marketing API retrieves eBay products based on a metric, such as Best Selling, as well as products that were also bought and also viewed.",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://ebay.com",
-      "Category": "Development",
       "Pricing": "unknown"
     },
     {
@@ -41429,16 +41219,6 @@
       "Cors": "",
       "Documentation Link": "http://developer.ebay.com/Devzone/shopping/docs/Concepts/ShoppingAPIGuide.html",
       "Category": "Shopping",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "eBay Shopping",
-      "Description": "Offers access to public read-only data such as searching for items, products, reviews, and eBay member profiles. The eBay Shopping API can be used in search tools and other buyer-focused applications",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://developer.ebay.com/",
-      "Category": "Business",
       "Pricing": "unknown"
     },
     {
@@ -42259,16 +42039,6 @@
       "Cors": "",
       "Documentation Link": "https://www.elastic.co/guide/en/elasticsearch/reference",
       "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "ElasticSearch",
-      "Description": "ElasticSearch is a data analysis, monitoring, and search platform. ElasticSearch provides multiple products for monitoring, searching, and organizing data.\nThe ElasticSearch API allows developers to access and integrate the functionality of ElasticSearch with other applications. API documentation is not available; API access comes with account service.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html",
-      "Category": "Business",
       "Pricing": "unknown"
     },
     {
@@ -46433,16 +46203,6 @@
     },
     {
       "API Name": "Facebook",
-      "Description": "Helps developers build, grow and monetize their business.",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://developers.facebook.com/docs",
-      "Category": "Social",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Facebook",
       "Description": "Facebook Login, Share on FB, Social Plugins, Analytics and more",
       "Auth": "OAuth",
       "HTTPS": true,
@@ -47762,16 +47522,6 @@
       "Pricing": "free"
     },
     {
-      "API Name": "Fidel",
-      "Description": "The Fidel API retrieves global payment data in real-time. With the API, developers can implement cards, offers, locations, and transactions into applications. They can authenticate with an API Key to make calls that will display JSON formats in return.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://reference.fidel.uk/reference",
-      "Category": "Finance",
-      "Pricing": "unknown"
-    },
-    {
       "API Name": "FIDEL",
       "Description": "FIDEL is a card-linked API that lets developers create web and mobile applications for linking banks cards with reward services. FIDEL API lets you connect your applications to credit and debit cards and monitor transactions in-store and online, chip & pin or contactless.",
       "Auth": "apiKey",
@@ -47872,16 +47622,6 @@
       "Pricing": "unknown"
     },
     {
-      "API Name": "Figshare",
-      "Description": "Figshare apiv2. Using Swagger 2.0",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://figshare.com",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
       "API Name": "Figure-Eight",
       "Description": "The Figure-Eight API enables users to post and retrieve data from the data annotation platform. Developers can display text, image, video, and audio in annotated data forms. Authentication is key-based. Figure Eight combines human and machine intelligence with AI for its data annotation platform features.",
       "Auth": "",
@@ -47958,16 +47698,6 @@
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://fmhelp.filemaker.com/docs/16/en/restapi",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Files.com",
-      "Description": "Files.com API API",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://files.com",
       "Category": "Development",
       "Pricing": "unknown"
     },
@@ -52572,16 +52302,6 @@
       "Pricing": "free"
     },
     {
-      "API Name": "FunTranslations",
-      "Description": "Funtranslations API gives access to the full set of translations available at funtranslations.com so that you can integrate them in your workflow or an app. [Click here to get details and subscribe](http://funtranslations.com/api) . Here are the individual API links:\n\n  ## Morse code API ##\n  Morse code conversion API on the cloud. Translate to and from Morse Code.[Click here to subscribe](http://funtranslations.com/api/morse)\n  ## Braille API ##\n  Braille conversion API on the cloud. Translate to Braille and get Braille results suitable for many display types.[Click here to subscribe](http://funtranslations.com/api/braille)     \n  ## Starwars Translation API ##\n  Ever wonder how to talk like Yoda? Well, use our API and let your APP/webpage speak like Yoda too.[Click here to subscribe](http://funtranslations.com/api/yoda)  \n  \n  Sith Translator API. [Click here to subscribe](http://funtranslations.com/api/sith) \n  \n  Cheunh Translator API. [Click here to subscribe](http://funtranslations.com/api/cheunh) \n  \n  Huttese Translator API. [Click here to subscribe](http://funtranslations.com/api/huttese)\n  \n  Mandalorian Translator API. [Click here to subscribe](http://funtranslations.com/api/mandalorian)\n  \n  Gungan Translator API. [Click here to subscribe](http://funtranslations.com/api/gungan)\n  \n  ## Pirate Speak Translation API ##\n  Ahoy, matey. Let's get those land lubbers speak our tounge too! Our evergreen pirate speak tranlsator API.[Click here to subscribe](http://funtranslations.com/api/pirate) \n  ## Valley Speak Translation API ##\n  Our throwback Valspeak translations API.[Click here to subscribe](http://funtranslations.com/api/valspeak)    \n  ## Minion Speak Translation API ##\n  Our evil master following minion speak translations API.[Click here to subscribe](http://funtranslations.com/api/minion)",
-      "Auth": "apiKey",
-      "HTTPS": false,
-      "Cors": "",
-      "Documentation Link": "http://funtranslations.com/",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
       "API Name": "FunTranslations Braille",
       "Description": "Braille conversion API on the cloud. Translate from English text to Braille and get Braille results suitable for many display types.[Click here to subscribe](http://funtranslations.com/api/braille)",
       "Auth": "apiKey",
@@ -54390,16 +54110,6 @@
       "Documentation Link": "http://www.geonames.org/export/web-services.html",
       "Category": "Geocoding",
       "Pricing": "free"
-    },
-    {
-      "API Name": "GeoNames",
-      "Description": "Geographical database covers all countries and contains over eleven million placenames that are available for download free of charge",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "http://www.geonames.org/export/",
-      "Category": "Geocoding",
-      "Pricing": "unknown"
     },
     {
       "API Name": "GeoNB",
@@ -127670,16 +127380,6 @@
       "Documentation Link": "https://stripe.com/docs/api",
       "Category": "Finance",
       "Pricing": "free"
-    },
-    {
-      "API Name": "Stripe",
-      "Description": "The Stripe REST API. Please see https://stripe.com/docs/api for more details.",
-      "Auth": "Basic",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://stripe.com",
-      "Category": "Finance",
-      "Pricing": "unknown"
     },
     {
       "API Name": "Stripe Relay",
