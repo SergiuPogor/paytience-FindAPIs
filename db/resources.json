@@ -1,5 +1,5 @@
 {
-  "count": 15516,
+  "count": 15520,
   "entries": [
     {
       "API Name": "(a9t9) OCR",
@@ -52252,6 +52252,16 @@
       "Pricing": "unknown"
     },
     {
+      "API Name": "Funda",
+      "Description": "Access Dutch real estate listings, property details, and housing market data from the Netherlands' largest property platform. Search for homes for sale and rent across the Netherlands.",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "unknown",
+      "Documentation Link": "https://www.funda.nl/docs/",
+      "Category": "Open Data",
+      "Pricing": "paid"
+    },
+    {
       "API Name": "FundPaaS Business Onboarding",
       "Description": "(ed: As of March, 2017, this API is currently inactive) FundPaas is a platform-as-a-service leveraging crowdfunding tool for startups and investors. The Business Onboarding API is used to register a business, associate a business type, and determine roles for business principals. The API uses JSON for requests and responses with HTTP methods, and API Keys for authentication. The API documentation outlines methods and provides code samples.",
       "Auth": "",
@@ -58360,6 +58370,16 @@
       "Documentation Link": "https://developers.google.com/gadgets",
       "Category": "Other",
       "Pricing": "unknown"
+    },
+    {
+      "API Name": "Google Gemini",
+      "Description": "Google's Gemini AI models for text generation, multimodal understanding, code generation, and reasoning. Access Gemini Pro, Gemini Ultra, and Gemini Flash models via the Gemini API or Google AI Studio.",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "unknown",
+      "Documentation Link": "https://ai.google.dev/docs",
+      "Category": "Machine Learning",
+      "Pricing": "freemium"
     },
     {
       "API Name": "Google Geocoding",
@@ -126942,6 +126962,16 @@
       "Pricing": "free"
     },
     {
+      "API Name": "Storm Glass Marine Weather",
+      "Description": "Global marine weather API providing ocean and coastal weather data including wave height, wind speed, water temperature, tide data, and swell conditions for sailing, surfing, and maritime applications.",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "yes",
+      "Documentation Link": "https://stormglass.io/docs/",
+      "Category": "Weather",
+      "Pricing": "freemium"
+    },
+    {
       "API Name": "Storm On Demand",
       "Description": "Storm on Demand allows users the ability to store their information online in the company's solid state servers or to host their own cloud manageable server with an emphasis on scalability and speed.\nThe API allows access to everything controllable within the cloud hosting interface. Creating, cloning, and resizing servers, modifying cloud attached firewall rules and options, restoring server backups as well as creating private networks and more.\nThe API currently supports JSON, YAML and XML (experimentally) parameter encodings.",
       "Auth": "",
@@ -153590,6 +153620,16 @@
       "Documentation Link": "http://yoyowallet.com/retailers/index.html",
       "Category": "Business",
       "Pricing": "unknown"
+    },
+    {
+      "API Name": "Yr",
+      "Description": "Free weather API from the Norwegian Meteorological Institute and NRK. Provides detailed weather forecasts, radar data, and meteorological observations for locations worldwide. No API key required.",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "yes",
+      "Documentation Link": "https://developer.yr.no/",
+      "Category": "Weather",
+      "Pricing": "free"
     },
     {
       "API Name": "Yu-Gi-Oh!",
