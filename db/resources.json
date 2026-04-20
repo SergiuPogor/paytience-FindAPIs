@@ -1,5 +1,5 @@
 {
-  "count": 15520,
+  "count": 15518,
   "entries": [
     {
       "API Name": "(a9t9) OCR",
@@ -1039,16 +1039,6 @@
       "Cors": "",
       "Documentation Link": "https://developer.abnamro.com/api/payment-initiation-v1/payment-initiation-documentation",
       "Category": "Finance",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "About Corona Covid-19",
-      "Description": "Covid-19 statistics from trusted sources via REST API utilizing edge deployment and caching to reach and scale for a global audience.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://about-corona.net/documentation",
-      "Category": "Open Data",
       "Pricing": "unknown"
     },
     {
@@ -24777,7 +24767,7 @@
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
-      "Documentation Link": "https://chevereto.com/docs",
+      "Documentation Link": "https://v4-docs.chevereto.com/api/1/file-upload.html",
       "Category": "Entertainment",
       "Pricing": "unknown"
     },
@@ -63219,16 +63209,6 @@
       "Cors": "",
       "Documentation Link": "https://iplocation.hirak.site/",
       "Category": "Other",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Hirak OCR",
-      "Description": "Image to text -text recognition- from image more than 100 language, accurate, unlimited requests",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://ocr.hirak.site/",
-      "Category": "Machine Learning",
       "Pricing": "unknown"
     },
     {
@@ -121733,22 +121713,22 @@
     },
     {
       "API Name": "Slack Web",
-      "Description": "Slack is a tool for managing team communications. Slack brings together all of a team's messages, files, and posts from Twitter, Dropbox, Trello, Google Docs, GitHub, and other services in one place. Once collected, these materials are archived and indexed so that they can all be searched at once. Native applications are available for iOS and Android devices to give users full access to Slack on the go.\nSlack comes with an API that allows users to integrate it with other third-party applications. Some out-of-the-box integrations are provided, but the API provides additional functions above and beyond those. With the Slack API, users can upload an image or file, get a channel's history, set a channel's \"unread\" marker, retrieve lists of files, and search a Slack instance.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://api.slack.com/web",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Slack Web",
       "Description": "One way to interact with the Slack platform is its HTTP RPC-based Web API, a collection of methods requiring OAuth 2.0-based user, bot, or workspace tokens blessed with related OAuth scopes.",
       "Auth": "OAuth",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://api.slack.com/support",
       "Category": "Security",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Slack Web",
+      "Description": "Slack is a tool for managing team communications. Slack brings together all of a team's messages, files, and posts from Twitter, Dropbox, Trello, Google Docs, GitHub, and other services in one place. Once collected, these materials are archived and indexed so that they can all be searched at once. Native applications are available for iOS and Android devices to give users full access to Slack on the go.\nSlack comes with an API that allows users to integrate it with other third-party applications. Some out-of-the-box integrations are provided, but the API provides additional functions above and beyond those. With the Slack API, users can upload an image or file, get a channel's history, set a channel's \"unread\" marker, retrieve lists of files, and search a Slack instance.",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://api.slack.com/web",
+      "Category": "Development",
       "Pricing": "unknown"
     },
     {
