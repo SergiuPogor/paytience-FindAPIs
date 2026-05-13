@@ -1,5 +1,5 @@
 {
-  "count": 15518,
+  "count": 15520,
   "entries": [
     {
       "API Name": "(a9t9) OCR",
@@ -123762,6 +123762,16 @@
       "Pricing": "unknown"
     },
     {
+      "API Name": "Sorsa API",
+      "Description": "Sorsa is an X (Twitter) data API built for teams who need real answers fast, not a 3-week approval process and a $5,000 monthly bill.\nSorsa gives businesses instant access to public X data: what people are saying, who is following whom, how campaigns are performing, and what competitors are doing. It is trusted by 2,000+ developers and companies across trading, crypto, marketing, PR, and AI. Plans start at $49/mo with flat pricing and no hidden fees",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "unknown",
+      "Documentation Link": "https://docs.sorsa.io/",
+      "Category": "Text Analysis",
+      "Pricing": "unknown"
+    },
+    {
       "API Name": "SortMyBooks",
       "Description": "The SortMyBooks API allows users to either access and use their SortMyBooks account, or integrate the service into their other applications. The API comes in both a SOAP and JSON protocol, and returns in JSON or HTML. The documentation includes a PHP application that demonstrates the API integration, full documentation is available with log in.",
       "Auth": "",
@@ -144829,6 +144839,16 @@
       "Cors": "",
       "Documentation Link": "http://example.com:8080/proxy/rdf",
       "Category": "Other",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Virus and Malware Scan API by attachmentAV",
+      "Description": "Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos. SaaS or self-hosted on AWS.",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "no",
+      "Documentation Link": "https://attachmentav.com/help/virus-malware-scan-api/developer/definition.html",
+      "Category": "Security",
       "Pricing": "unknown"
     },
     {
