@@ -5003,22 +5003,22 @@
     },
     {
       "API Name": "Amadeus Airline Code Lookup",
-      "Description": "Before using this API, we recommend you read our **[Authorization Guide](https://developers.amadeus.com/self-service/apis-docs/guides/authorization-262)** for more information on how to generate an access token. \n\nPlease also be aware that our test environment is based on a subset of the production, to see what is included in test please refer to our **[data collection](https://github.com/amadeus4dev/data-collection)**.",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://developers.amadeus.com/",
-      "Category": "Security",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Amadeus Airline Code Lookup",
       "Description": "The Amadeus Airline Code Lookup API allows developers to get the airline name for a specific IATA or ICAO airline code. Multiple airline names can be retrieved in a single call by including several airline codes in the same request.This API is provided by Amadeus, a technology company that builds solutions for travel operations such as airlines, hotels, railways, and travel agencies.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://developers.amadeus.com/self-service/category/air/api-doc/airline-code-lookup",
       "Category": "Transportation",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Amadeus Airline Code Lookup",
+      "Description": "Before using this API, we recommend you read our **[Authorization Guide](https://developers.amadeus.com/self-service/apis-docs/guides/authorization-262)** for more information on how to generate an access token. \n\nPlease also be aware that our test environment is based on a subset of the production, to see what is included in test please refer to our **[data collection](https://github.com/amadeus4dev/data-collection)**.",
+      "Auth": "OAuth",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://developers.amadeus.com/",
+      "Category": "Security",
       "Pricing": "unknown"
     },
     {
@@ -56933,21 +56933,21 @@
     },
     {
       "API Name": "Google Apps Script",
-      "Description": "Manages and executes Google Apps Script projects.",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://google.com",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Google Apps Script",
       "Description": "The Google Apps Script API allows you to use JavaScript to interact with various Google products that include; Calendar, Docs, Drive, Gmail, Sheets, Contacts, Slides and more. It provides a way to automate tasks like spreadsheet and add buttons, and other interface components for gathering user input. Apps Script enables you to increase the power of your Google apps on a JavaScript platform in the cloud.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://developers.google.com/apps-script",
+      "Category": "Development",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Google Apps Script",
+      "Description": "Manages and executes Google Apps Script projects.",
+      "Auth": "OAuth",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://google.com",
       "Category": "Development",
       "Pricing": "unknown"
     },
@@ -57003,22 +57003,22 @@
     },
     {
       "API Name": "Google Blogger",
-      "Description": "The Google Blogger API allows client applications to view and update Blogger content. It provides a way to add a running list of blog posts, pages and comments to a non-Blogger hosted site, create browser based applications and mobile apps that enable people to create and manage their posts from where ever they are, and more. Google is a technology company that specializes in Internet-related services and products that includes online advertising technologies, search, cloud computing, software, and hardware.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://developers.google.com/blogger",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Google Blogger",
       "Description": "The Blogger API provides access to posts, comments and pages of a Blogger blog.",
       "Auth": "OAuth",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://google.com",
       "Category": "News",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Google Blogger",
+      "Description": "The Google Blogger API allows client applications to view and update Blogger content. It provides a way to add a running list of blog posts, pages and comments to a non-Blogger hosted site, create browser based applications and mobile apps that enable people to create and manage their posts from where ever they are, and more. Google is a technology company that specializes in Internet-related services and products that includes online advertising technologies, search, cloud computing, software, and hardware.",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://developers.google.com/blogger",
+      "Category": "Development",
       "Pricing": "unknown"
     },
     {
@@ -57063,16 +57063,6 @@
     },
     {
       "API Name": "Google Calendar",
-      "Description": "Display, create and modify Google calendar events",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://developers.google.com/google-apps/calendar/",
-      "Category": "Calendar",
-      "Pricing": "free"
-    },
-    {
-      "API Name": "Google Calendar",
       "Description": "Manipulates events and other calendar data.",
       "Auth": "OAuth",
       "HTTPS": true,
@@ -57080,6 +57070,16 @@
       "Documentation Link": "https://google.com",
       "Category": "Development",
       "Pricing": "unknown"
+    },
+    {
+      "API Name": "Google Calendar",
+      "Description": "Display, create and modify Google calendar events",
+      "Auth": "OAuth",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://developers.google.com/google-apps/calendar/",
+      "Category": "Calendar",
+      "Pricing": "free"
     },
     {
       "API Name": "Google Cardboard",
@@ -57693,22 +57693,22 @@
     },
     {
       "API Name": "Google Cloud Storage JSON",
-      "Description": "Stores and retrieves potentially large, immutable data objects.",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://google.com",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Google Cloud Storage JSON",
       "Description": "The Google Cloud Storage JSON API is an interface for accessing and manipulating Google Cloud Storage projects in a programmatic way. It is used with applications that consume web services through HTTP requests. Google Cloud helps developers build with cloud tools and infrastructure, applications, maps and devices.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://cloud.google.com/docs",
       "Category": "Cloud Storage & File Sharing",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Google Cloud Storage JSON",
+      "Description": "Stores and retrieves potentially large, immutable data objects.",
+      "Auth": "OAuth",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://google.com",
+      "Category": "Development",
       "Pricing": "unknown"
     },
     {
@@ -57923,21 +57923,21 @@
     },
     {
       "API Name": "Google Custom Search",
-      "Description": "Searches over a website or collection of websites",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://google.com",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Google Custom Search",
       "Description": "The Google Custom Search Engine API is a RESTful API that allows developer to get web or image search results data in JSON or Atom format. With the API, developers can add web search and/or site search capabilities to their website, blog or collection of websites.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://developers.google.com/custom-search/json-api/v1/overview",
+      "Category": "Development",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Google Custom Search",
+      "Description": "Searches over a website or collection of websites",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://google.com",
       "Category": "Development",
       "Pricing": "unknown"
     },
@@ -58043,16 +58043,6 @@
     },
     {
       "API Name": "Google Docs",
-      "Description": "API to read, write, and format Google Docs documents",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://developers.google.com/docs/api/reference/rest",
-      "Category": "Development",
-      "Pricing": "free"
-    },
-    {
-      "API Name": "Google Docs",
       "Description": "Reads and writes Google Docs documents.",
       "Auth": "OAuth",
       "HTTPS": true,
@@ -58060,6 +58050,16 @@
       "Documentation Link": "https://google.com",
       "Category": "Development",
       "Pricing": "unknown"
+    },
+    {
+      "API Name": "Google Docs",
+      "Description": "API to read, write, and format Google Docs documents",
+      "Auth": "OAuth",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://developers.google.com/docs/api/reference/rest",
+      "Category": "Development",
+      "Pricing": "free"
     },
     {
       "API Name": "Google DoubleClick Ad Exchange Seller",
@@ -58073,16 +58073,6 @@
     },
     {
       "API Name": "Google Drive",
-      "Description": "File Sharing and Storage",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://developers.google.com/drive/",
-      "Category": "Cloud Storage & File Sharing",
-      "Pricing": "free"
-    },
-    {
-      "API Name": "Google Drive",
       "Description": "Manages files in Drive including uploading, downloading, searching, detecting changes, and updating sharing permissions.",
       "Auth": "OAuth",
       "HTTPS": true,
@@ -58090,6 +58080,16 @@
       "Documentation Link": "https://google.com",
       "Category": "Development",
       "Pricing": "unknown"
+    },
+    {
+      "API Name": "Google Drive",
+      "Description": "File Sharing and Storage",
+      "Auth": "OAuth",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://developers.google.com/drive/",
+      "Category": "Cloud Storage & File Sharing",
+      "Pricing": "free"
     },
     {
       "API Name": "Google Drive Labels",
@@ -58513,21 +58513,21 @@
     },
     {
       "API Name": "Google Knowledge Graph Search",
-      "Description": "Searches the Google Knowledge Graph for entities.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://google.com",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Google Knowledge Graph Search",
       "Description": "The Google Knowledge Graph Search API is a tool that helps users find entities within the Google Knowledge Graph. Some of the features provided by the Google Knowledge Graph Search API are: get a ranked list of the most notable entities that match certain criteria; ability to predictably complete entities in a search box; and annotate and organize content using the Knowledge Graph entities. The Google Knowledge Graph is an innovative knowledge base used to enhance Google's search results with semantic-search information gathered from a variety of sources.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://developers.google.com/knowledge-graph",
+      "Category": "Development",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Google Knowledge Graph Search",
+      "Description": "Searches the Google Knowledge Graph for entities.",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://google.com",
       "Category": "Development",
       "Pricing": "unknown"
     },
@@ -58963,21 +58963,21 @@
     },
     {
       "API Name": "Google Play Game Services Publishing",
-      "Description": "The Google Play Game Services Publishing API allows developers to configure their games in Game Services.",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://google.com",
-      "Category": "Games & Comics",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Google Play Game Services Publishing",
       "Description": "The Game Services Publishing API is part of the services for developers publishing games on Google Play. Using the API, developers can retrieve or update meta user data on achievements given an application or ID, upload images for resource types, and configure and return leaderboard lists per application or ID. The RESTful Game Services Publishing API accepts GET, POST, DELETE, and PUT HTTP requests.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://developers.google.com/games/services/publishing/index?utm_campaign=pgs-1214&utm;_source=dac&utm;_medium=blog",
+      "Category": "Games & Comics",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Google Play Game Services Publishing",
+      "Description": "The Google Play Game Services Publishing API allows developers to configure their games in Game Services.",
+      "Auth": "OAuth",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://google.com",
       "Category": "Games & Comics",
       "Pricing": "unknown"
     },
@@ -59223,16 +59223,6 @@
     },
     {
       "API Name": "Google Sheets",
-      "Description": "API to read, write, and format Google Sheets data",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://developers.google.com/sheets/api/reference/rest",
-      "Category": "Development",
-      "Pricing": "free"
-    },
-    {
-      "API Name": "Google Sheets",
       "Description": "Reads and writes Google Sheets.",
       "Auth": "OAuth",
       "HTTPS": true,
@@ -59240,6 +59230,16 @@
       "Documentation Link": "https://google.com",
       "Category": "Development",
       "Pricing": "unknown"
+    },
+    {
+      "API Name": "Google Sheets",
+      "Description": "API to read, write, and format Google Sheets data",
+      "Auth": "OAuth",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://developers.google.com/sheets/api/reference/rest",
+      "Category": "Development",
+      "Pricing": "free"
     },
     {
       "API Name": "Google Shopping Content",
@@ -59273,16 +59273,6 @@
     },
     {
       "API Name": "Google Slides",
-      "Description": "API to read, write, and format Google Slides presentations",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://developers.google.com/slides/api/reference/rest",
-      "Category": "Development",
-      "Pricing": "free"
-    },
-    {
-      "API Name": "Google Slides",
       "Description": "Reads and writes Google Slides presentations.",
       "Auth": "OAuth",
       "HTTPS": true,
@@ -59290,6 +59280,16 @@
       "Documentation Link": "https://google.com",
       "Category": "Development",
       "Pricing": "unknown"
+    },
+    {
+      "API Name": "Google Slides",
+      "Description": "API to read, write, and format Google Slides presentations",
+      "Auth": "OAuth",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://developers.google.com/slides/api/reference/rest",
+      "Category": "Development",
+      "Pricing": "free"
     },
     {
       "API Name": "Google Smart Home",
@@ -61693,22 +61693,22 @@
     },
     {
       "API Name": "Handwrytten",
-      "Description": "The Handwrytten API provides programmatic access to the greeting card writing platform. API functions include managing profiles, gift card commands, template commands, user and recipient commands, and more. Handwrytten is a platform for automating the sending of handwritten notes, written in pen and ink. All notes are written in the handwriting style of your choice by a robot. The envelope is addressed in pen and ink as well and a real stamp is affixed prior to mailing.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://www.handwrytten.com/api-documentation",
-      "Category": "Business",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Handwrytten",
       "Description": "This is the Handwrytten API for sending cards written in the handwriting of your choice.\nUsing this api, you can send cards to users.  You can also customize cards with logos, which\ncan be saved and then used like any other card in the system.\nFor a \"sandbox\" account, please contact contact@handwrytten.com\nTo move from credit card per-transaction to monthly invoicing, also contact us.\n[https://www.handwrytten.com](https://www.handwrytten.com)",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://handwrytten.com",
       "Category": "Development",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Handwrytten",
+      "Description": "The Handwrytten API provides programmatic access to the greeting card writing platform. API functions include managing profiles, gift card commands, template commands, user and recipient commands, and more. Handwrytten is a platform for automating the sending of handwritten notes, written in pen and ink. All notes are written in the handwriting style of your choice by a robot. The envelope is addressed in pen and ink as well and a real stamp is affixed prior to mailing.",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://www.handwrytten.com/api-documentation",
+      "Category": "Business",
       "Pricing": "unknown"
     },
     {
@@ -66443,16 +66443,6 @@
     },
     {
       "API Name": "IIN",
-      "Description": "THE IIN API is a verification platform that integrates credit and debit card look up capabilities in order to detect fraudulent activities. Developers can white-list their API key to ensure specific servers consume the IIN API for added security. The API is REST-based with standard HTTP GET requests. ALL data is provided in JSON format. Fees are charged on a per call basis.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://iinapi.com/docs",
-      "Category": "Finance",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "IIN",
       "Description": "IIN API allows you to accurately identify the issuing bank, card type, country of origin, and other details from a credit or debit card number. This is essential for fraud prevention, payment processing, and customer verification.",
       "Auth": "apiKey",
       "HTTPS": true,
@@ -66460,6 +66450,16 @@
       "Documentation Link": "https://iinapi.com",
       "Category": "Finance",
       "Pricing": "free"
+    },
+    {
+      "API Name": "IIN",
+      "Description": "THE IIN API is a verification platform that integrates credit and debit card look up capabilities in order to detect fraudulent activities. Developers can white-list their API key to ensure specific servers consume the IIN API for added security. The API is REST-based with standard HTTP GET requests. ALL data is provided in JSON format. Fees are charged on a per call basis.",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://iinapi.com/docs",
+      "Category": "Finance",
+      "Pricing": "unknown"
     },
     {
       "API Name": "IKANOW",
@@ -69193,16 +69193,6 @@
     },
     {
       "API Name": "Interzoid Get Full Name Match Similarity Key",
-      "Description": "This API provides a similarity key used to match with other similar full name data, including for purposes of deduplication, fuzzy matching, or merging of datasets. A much higher match rate will be achieved by matching on the similarity key rather than the data itself. This API is for full name data where first and last name are in the same field. Use the Full Name Parsed Similarity Key API for first and last name data that are in separate fields.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://www.interzoid.com",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Interzoid Get Full Name Match Similarity Key",
       "Description": "The Interzoid Full Name Match API provides an algorithmically generated similarity key used to match with similar full name information for identification purposes across data fields. This API uses JSON for responses, and API Keys for authentication. Interzoid powers data-driven applications by implementing several tools based on spelling variation analysis, learning methods, and specific language knowledge.",
       "Auth": "",
       "HTTPS": true,
@@ -69212,13 +69202,13 @@
       "Pricing": "unknown"
     },
     {
-      "API Name": "Interzoid Get Full Name Parsed Match Similarity Key",
-      "Description": "The Interzoid Parsed Name Match API provides an algorithmically generated similarity key used to match with parsed full name data. This API uses JSON for responses, and API Keys for authentication. Interzoid powers data-driven applications with several tools based on spelling variation analysis, learning methods, and specific language knowledge.",
+      "API Name": "Interzoid Get Full Name Match Similarity Key",
+      "Description": "This API provides a similarity key used to match with other similar full name data, including for purposes of deduplication, fuzzy matching, or merging of datasets. A much higher match rate will be achieved by matching on the similarity key rather than the data itself. This API is for full name data where first and last name are in the same field. Use the Full Name Parsed Similarity Key API for first and last name data that are in separate fields.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
-      "Documentation Link": "https://www.interzoid.com/services/getfullnameparsedmatch",
-      "Category": "Open Data",
+      "Documentation Link": "https://www.interzoid.com",
+      "Category": "Development",
       "Pricing": "unknown"
     },
     {
@@ -69229,6 +69219,16 @@
       "Cors": "",
       "Documentation Link": "https://www.interzoid.com",
       "Category": "Development",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Interzoid Get Full Name Parsed Match Similarity Key",
+      "Description": "The Interzoid Parsed Name Match API provides an algorithmically generated similarity key used to match with parsed full name data. This API uses JSON for responses, and API Keys for authentication. Interzoid powers data-driven applications with several tools based on spelling variation analysis, learning methods, and specific language knowledge.",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://www.interzoid.com/services/getfullnameparsedmatch",
+      "Category": "Open Data",
       "Pricing": "unknown"
     },
     {
@@ -73993,22 +73993,22 @@
     },
     {
       "API Name": "Jumpseller",
-      "Description": "# Endpoint Structure\n\nAll URLs are in the format: \n\n```text\nhttps://api.jumpseller.com/v1/path.json?login=XXXXXX&authtoken=storetoken  \n```\n\nThe path is prefixed by the API version and the URL takes as parameters the login (your store specific API login) and your authentication token.\n<br/><br/>\n***\n\n# Version\n\nThe current version of the API is **v1**.  \nIf we change the API in backward-incompatible ways, we'll increase the version number and maintain stable support for the old urls.\n<br/><br/>\n***\n\n# Authentication\n\nThe API uses a token-based authentication with a combination of a login key and an auth token. **Both parameters can be found on the left sidebar of the Account section, accessed from the main menu of your Admin Panel**. The auth token of the user can be reset on the same page.\n\n![Store Login](/images/support/api/apilogin.png)\n\nThe auth token is a **32 characters** string.\n\nIf you are developing a Jumpseller App, the authentication should be done using [OAuth-2](/support/oauth-2). Please read the article [Build an App](/support/apps) for more information.\n<br/><br/>\n***\n\n# Curl Examples\n\nTo request all the products at your store, you would append the products index path to the base url to create an URL with the format:  \n\n```text\nhttps://api.jumpseller.com/v1/products.json?login=XXXXXX&authtoken=XXXXX\n```\n\nIn curl, you can invoque that URL with:  \n\n```text\ncurl -X GET \"https://api.jumpseller.com/v1/products.json?login=XXXXXX&authtoken=XXXXX\"\n```\n\nTo create a product, you will include the JSON data and specify the MIME Type:  \n\n```text\ncurl -X POST -d '{ \"product\" : {\"name\": \"My new Product!\", \"price\": 100} }' \"https://api.jumpseller.com/v1/products.json?login=XXXXXX&authtoken=XXXXX\" -H \"Content-Type:application/json\"\n```\n\nand to update the product identified with 123:  \n\n```text\ncurl -X PUT -d '{ \"product\" : {\"name\": \"My updated Product!\", \"price\": 99} }' \"https://api.jumpseller.com/v1/products/123.json?login=XXXXXX&authtoken=XXXXX\" -H \"Content-Type:application/json\"\n```\n\nor delete it:  \n\n```text\ncurl -X DELETE \"https://api.jumpseller.com/v1/products/123.json?login=XXXXXX&authtoken=XXXXX\" -H \"Content-Type:application/json\"\n```\n<br/><br/>\n***\n\n# PHP Examples\n\nCreate a new Product (POST method)\n\n```php\n$url = 'https://api.jumpseller.com/v1/products.json?login=XXXXX&authtoken=XXXXX;\n$ch = curl_init($url);\ncurl_setopt($ch, CURLOPT_RETURNTRANSFER, true);\ncurl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));\n\ncurl_setopt($ch, CURLOPT_CUSTOMREQUEST, \"POST\"); //post method\ncurl_setopt($ch, CURLOPT_POSTFIELDS, '{ \"product\" : {\"name\": \"My updated Product!\", \"price\": 99} }');\n\n$result = curl_exec($ch);\nprint_r($result);\ncurl_close($ch);\n```\n<br/><br/>\n***\n\n# Plain JSON only. No XML.\n\n* We only support JSON for data serialization.\n* Our node format has no root element.  \n* We use snake_case to describe attribute keys (like \"created_at\").  \n* All empty value are replaced with **null** strings.\n* All API URLs end in .json to indicate that they accept and return JSON.\n* POST and PUT methods require you to explicitly state the MIME type of your request's body content as **\"application/json\"**.\n<br/><br/>\n***\n\n# Rate Limit\nYou can perform a maximum of:\n\n+ 240 (two hundred forty) requests per minute and\n+ 8 (eight) requests per second \n\nIf you exceed this limit, you'll get a 403 Forbidden (Rate Limit Exceeded) response for subsequent requests.  \n\nThe rate limits apply by IP address and by store. This means that multiple requests on different stores are not counted towards the same rate limit.\n\nThis limits are necessary to ensure resources are correctly used. Your application should be aware of this limits and retry any unsuccessful request, check the following Ruby stub:\n\n```ruby\ntries = 0; max_tries = 3;\nbegin\n  HTTParty.send(method, uri) # perform an API call.\n  sleep 0.5\n  tries += 1\nrescue\n  unless tries >= max_tries\n    sleep 1.0 # wait the necessary time before retrying the call again.\n    retry\n  end\nend\n```\n\nFinally, you can review the Response Headers of each request:\n\n```text\nJumpseller-PerMinuteRateLimit-Limit: 60  \nJumpseller-PerMinuteRateLimit-Remaining: 59 # requests available on the per-second interval  \nJumpseller-PerSecondRateLimit-Limit: 2  \nJumpseller-PerSecondRateLimit-Remaining: 1 # requests available on the per-second interval\n``` \n\nto better model your application requests intervals.\n\nIn the event of getting your IP banned, the Response Header `Jumpseller-BannedByRateLimit-Reset` informs you the time when will your ban be reseted.\n<br/><br/>\n***\n\n# Pagination\n\nBy default we will return 50 objects (products, orders, etc) per page. There is a maximum of 100, using a query string `&limit=100`.\nIf the result set gets paginated it is your responsibility to check the next page for more objects -- you do this by using query strings `&page=2`, `&page=3` and so on.\n\n```text\nhttps://api.jumpseller.com/v1/products.json?login=XXXXXX&authtoken=XXXXX&page=3&limit=100\n```\n<br/><br/>\n***\n\n# More\n* [Jumpseller API wrapper](https://gitlab.com/jumpseller-api/ruby) provides a public Ruby abstraction over our API;\n* [Apps Page](/apps) showcases external integrations with Jumpseller done by technical experts;\n* [Imgbb API](https://api.imgbb.com/) provides an easy way to upload and temporaly host for images and files.\n<br/><br/>\n***\n<br/><br/>",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://jumpseller.com",
-      "Category": "Geocoding",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Jumpseller",
       "Description": "Jumpseller is a hosted service for creating and managing professional online stores without any technical knowledge. Jumpseller provides a gallery of themes that are compatible with many different kinds of devices. Users also have the option of creating a custom theme or simply embedding Jumpseller within their current website. Jumpseller supports a wide range of payment methods including PayPal, credit cards, bank transfers, and more. Users can alter their websites' and payment gateways' language, currency, shipping cost, and taxes by country or region.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://jumpseller.com/support/api",
       "Category": "Shopping",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Jumpseller",
+      "Description": "# Endpoint Structure\n\nAll URLs are in the format: \n\n```text\nhttps://api.jumpseller.com/v1/path.json?login=XXXXXX&authtoken=storetoken  \n```\n\nThe path is prefixed by the API version and the URL takes as parameters the login (your store specific API login) and your authentication token.\n<br/><br/>\n***\n\n# Version\n\nThe current version of the API is **v1**.  \nIf we change the API in backward-incompatible ways, we'll increase the version number and maintain stable support for the old urls.\n<br/><br/>\n***\n\n# Authentication\n\nThe API uses a token-based authentication with a combination of a login key and an auth token. **Both parameters can be found on the left sidebar of the Account section, accessed from the main menu of your Admin Panel**. The auth token of the user can be reset on the same page.\n\n![Store Login](/images/support/api/apilogin.png)\n\nThe auth token is a **32 characters** string.\n\nIf you are developing a Jumpseller App, the authentication should be done using [OAuth-2](/support/oauth-2). Please read the article [Build an App](/support/apps) for more information.\n<br/><br/>\n***\n\n# Curl Examples\n\nTo request all the products at your store, you would append the products index path to the base url to create an URL with the format:  \n\n```text\nhttps://api.jumpseller.com/v1/products.json?login=XXXXXX&authtoken=XXXXX\n```\n\nIn curl, you can invoque that URL with:  \n\n```text\ncurl -X GET \"https://api.jumpseller.com/v1/products.json?login=XXXXXX&authtoken=XXXXX\"\n```\n\nTo create a product, you will include the JSON data and specify the MIME Type:  \n\n```text\ncurl -X POST -d '{ \"product\" : {\"name\": \"My new Product!\", \"price\": 100} }' \"https://api.jumpseller.com/v1/products.json?login=XXXXXX&authtoken=XXXXX\" -H \"Content-Type:application/json\"\n```\n\nand to update the product identified with 123:  \n\n```text\ncurl -X PUT -d '{ \"product\" : {\"name\": \"My updated Product!\", \"price\": 99} }' \"https://api.jumpseller.com/v1/products/123.json?login=XXXXXX&authtoken=XXXXX\" -H \"Content-Type:application/json\"\n```\n\nor delete it:  \n\n```text\ncurl -X DELETE \"https://api.jumpseller.com/v1/products/123.json?login=XXXXXX&authtoken=XXXXX\" -H \"Content-Type:application/json\"\n```\n<br/><br/>\n***\n\n# PHP Examples\n\nCreate a new Product (POST method)\n\n```php\n$url = 'https://api.jumpseller.com/v1/products.json?login=XXXXX&authtoken=XXXXX;\n$ch = curl_init($url);\ncurl_setopt($ch, CURLOPT_RETURNTRANSFER, true);\ncurl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));\n\ncurl_setopt($ch, CURLOPT_CUSTOMREQUEST, \"POST\"); //post method\ncurl_setopt($ch, CURLOPT_POSTFIELDS, '{ \"product\" : {\"name\": \"My updated Product!\", \"price\": 99} }');\n\n$result = curl_exec($ch);\nprint_r($result);\ncurl_close($ch);\n```\n<br/><br/>\n***\n\n# Plain JSON only. No XML.\n\n* We only support JSON for data serialization.\n* Our node format has no root element.  \n* We use snake_case to describe attribute keys (like \"created_at\").  \n* All empty value are replaced with **null** strings.\n* All API URLs end in .json to indicate that they accept and return JSON.\n* POST and PUT methods require you to explicitly state the MIME type of your request's body content as **\"application/json\"**.\n<br/><br/>\n***\n\n# Rate Limit\nYou can perform a maximum of:\n\n+ 240 (two hundred forty) requests per minute and\n+ 8 (eight) requests per second \n\nIf you exceed this limit, you'll get a 403 Forbidden (Rate Limit Exceeded) response for subsequent requests.  \n\nThe rate limits apply by IP address and by store. This means that multiple requests on different stores are not counted towards the same rate limit.\n\nThis limits are necessary to ensure resources are correctly used. Your application should be aware of this limits and retry any unsuccessful request, check the following Ruby stub:\n\n```ruby\ntries = 0; max_tries = 3;\nbegin\n  HTTParty.send(method, uri) # perform an API call.\n  sleep 0.5\n  tries += 1\nrescue\n  unless tries >= max_tries\n    sleep 1.0 # wait the necessary time before retrying the call again.\n    retry\n  end\nend\n```\n\nFinally, you can review the Response Headers of each request:\n\n```text\nJumpseller-PerMinuteRateLimit-Limit: 60  \nJumpseller-PerMinuteRateLimit-Remaining: 59 # requests available on the per-second interval  \nJumpseller-PerSecondRateLimit-Limit: 2  \nJumpseller-PerSecondRateLimit-Remaining: 1 # requests available on the per-second interval\n``` \n\nto better model your application requests intervals.\n\nIn the event of getting your IP banned, the Response Header `Jumpseller-BannedByRateLimit-Reset` informs you the time when will your ban be reseted.\n<br/><br/>\n***\n\n# Pagination\n\nBy default we will return 50 objects (products, orders, etc) per page. There is a maximum of 100, using a query string `&limit=100`.\nIf the result set gets paginated it is your responsibility to check the next page for more objects -- you do this by using query strings `&page=2`, `&page=3` and so on.\n\n```text\nhttps://api.jumpseller.com/v1/products.json?login=XXXXXX&authtoken=XXXXX&page=3&limit=100\n```\n<br/><br/>\n***\n\n# More\n* [Jumpseller API wrapper](https://gitlab.com/jumpseller-api/ruby) provides a public Ruby abstraction over our API;\n* [Apps Page](/apps) showcases external integrations with Jumpseller done by technical experts;\n* [Imgbb API](https://api.imgbb.com/) provides an easy way to upload and temporaly host for images and files.\n<br/><br/>\n***\n<br/><br/>",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://jumpseller.com",
+      "Category": "Geocoding",
       "Pricing": "unknown"
     },
     {
@@ -76943,21 +76943,21 @@
     },
     {
       "API Name": "Last.fm",
-      "Description": "The Last.fm API gives users the ability to build programs using Last.fm data, whether on the web, the desktop or mobile devices. The RESTful API allows for read and write access to the full slate of last.fm music data resources - albums, artists, playlists, events, users, and more. It allows users to call methods that respond in either XML or JSON.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "http://www.last.fm/api",
-      "Category": "Music",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Last.fm",
       "Description": "Allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://www.last.fm/api",
+      "Category": "Music",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Last.fm",
+      "Description": "The Last.fm API gives users the ability to build programs using Last.fm data, whether on the web, the desktop or mobile devices. The RESTful API allows for read and write access to the full slate of last.fm music data resources - albums, artists, playlists, events, users, and more. It allows users to call methods that respond in either XML or JSON.",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "http://www.last.fm/api",
       "Category": "Music",
       "Pricing": "unknown"
     },
@@ -88733,16 +88733,6 @@
     },
     {
       "API Name": "Musixmatch",
-      "Description": "Musixmatch lyrics API is a robust service that permits you to search and retrieve lyrics in the simplest possible way. It just works.\n\nInclude millions of licensed lyrics on your website or in your application legally.\n\nThe fastest, most powerful and legal way to display lyrics on your website or in your application.\n\n#### Read musixmatch API Terms & Conditions and the Privacy Policy:\nBefore getting started, you must take a look at the [API Terms & Conditions](http://musixmatch.com/apiterms/) and the [Privacy Policy](https://developer.musixmatch.com/privacy). We’ve worked hard to make this service completely legal so that we are all protected from any foreseeable liability. Take the time to read this stuff.\n\n#### Register for an API key:\nAll you need to do is [register](https://developer.musixmatch.com/signup) in order to get your API key, a mandatory parameter for most of our API calls. It’s your personal identifier and should be kept secret:\n\n```\n  https://api.musixmatch.com/ws/v1.1/track.get?apikey=YOUR_API_KEY\n```\n#### Integrate the musixmatch service with your web site or application\nIn the most common scenario you only need to implement two API calls: \nThe first call is to match your catalog to ours using the [track.search](#!/Track/get_track_search) function and the second is to get the lyrics using the [track.lyrics.get](#!/Lyrics/get_track_lyrics_get) api. That’s it!\n\n## API Methods\nWhat does the musiXmatch API do?\n\nThe musiXmatch API allows you to read objects from our huge 100% licensed lyrics database.\n\nTo make your life easier we are providing you with one or more examples to show you how it could work in the wild. You’ll find both the API request and API response in all the available output formats for each API call. Follow the links below for the details.\n\nThe current API version is 1.1, the root URL is located at https://api.musixmatch.com/ws/1.1/\n\nSupported input parameters can be found on the page [Input Parameters](https://developer.musixmatch.com/documentation/input-parameters). Use UTF-8 to encode arguments when calling API methods.\n\nEvery response includes a status_code. A list of all status codes can be consulted at [Status Codes](https://developer.musixmatch.com/documentation/status-codes).\n\n## Music meta data\nThe musiXmatch api is built around lyrics, but there are many other data we provide through the api that can be used to improve every existent music service.\n\n## Track\nInside the track object you can get the following extra information:\n\n### TRACK RATING\n\nThe track rating is a score 0-100 identifying how popular is a song in musixmatch.\n\nYou can use this information to sort search results, like the most popular songs of an artist, of a music genre, of a lyrics language.\n\n### INSTRUMENTAL AND EXPLICIT FLAGS\n\nThe instrumental flag identifies songs with music only, no lyrics.\n\nThe explicit flag identifies songs with explicit lyrics or explicit title. We're able to identify explicit words and set the flag for the most common languages.\n\n### FAVOURITES\n\nHow many users have this song in their list of favourites.\n\nCan be used to sort tracks by num favourite to identify more popular tracks within a set.\n\n### MUSIC GENRE\n\nThe music genere of the song.\n\nCan be used to group songs by genre, as input for similarity alghorithms, artist genre identification, navigate songs by genere, etc.\n\n### SONG TITLES TRANSLATIONS\n\nThe track title, as translated in different lanauages, can be used to display the right writing for a given user, example:\n\nLIES (Bigbang) becomes 在光化門 in chinese\nHALLELUJAH (Bigbang) becomes ハレルヤ in japanese\n\n\n## Artist\nInside the artist object you can get the following nice extra information:\n\n### COMMENTS AND COUNTRY\n\nAn artist comment is a short snippet of text which can be mainly used for disambiguation.\n\nThe artist country is the born country of the artist/group\n\nThere are two perfect search result if you search by artist with the keyword \"U2\". Indeed there are two distinct music groups with this same name, one is the most known irish group of Bono Vox, the other is a less popular (world wide speaking) group from Japan.\n\nHere's how you can made use of the artist comment in your search result page:\n\nU2 (Irish rock band)\nU2 (あきやまうに)\nYou can also show the artist country for even better disambiguation:\n\nU2 (Irish rock band) from Ireland\nU2 (あきやまうに) from Japan\nARTIST TRANSLATIONS\n\nWhen you create a world wide music related service you have to take into consideration to display the artist name in the user's local language. These translation are also used as aliases to improve the search results.\n\nLet's use PSY for this example.\n\nWestern people know him as PSY but korean want to see the original name 싸이.\n\nUsing the name translations provided by our api you can show to every user the writing they expect to see.\n\nFurthermore, when you search for \"psy gangnam style\" or \"싸이 gangnam style\" with our search/match api you will still be able to find the song.\n\n### ARTIST RATING\n\nThe artist rating is a score 0-100 identifying how popular is an artist in musixmatch.\n\nYou can use this information to build charts, for suggestions, to sort search results. In the example above about U2, we use the artist rating to show the irish band before the japanese one in our serp.\n\n### ARTIST MUSIC GENRE\n\nWe provide one or more main artist genre, this information can be used to calculate similar artist, suggestions, or the filter a search by artist genre.\n\n\n\n## Album\nInside the album object you can get the following nice extra information:\n\n### ALBUM RATING\n\nThe album rating is a score 0-100 identifying how popular is an album in musixmatch.\n\nYou can use this information to sort search results, like the most popular albums of an artist.\n\n### ALBUM RATING\n\nThe album rating is a score 0-100 identifying how popular is an album in musixmatch.\n\nYou can use this information to sort search results, like the most popular albums of an artist.\n\n### ALBUM COPYRIGHT AND LABEL\n\nFor most of our albums we can provide extra information like for example:\n\nLabel: Universal-Island Records Ltd.\nCopyright: (P) 2013 Rubyworks, under license to Columbia Records, a Division of Sony Music Entertainment.\nALBUM TYPE AND RELEASE DATE\n\nThe album official release date can be used to sort an artist's albums view starting by the most recent one.\n\nAlbum can also be filtered or grouped by type: Single, Album, Compilation, Remix, Live. This can help to build an artist page with a more organized structure.\n\n### ALBUM MUSIC GENRE\n\nFor most of the albums we provide two groups of music genres. Primary and secondary. This information can be used to help user navigate albums by genre.\n\nAn example could be:\n\nPrimary genere: POP\nSecondary genre: K-POP or Mandopop",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://musixmatch.com",
-      "Category": "Music",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Musixmatch",
       "Description": "Music",
       "Auth": "apiKey",
       "HTTPS": true,
@@ -88750,6 +88740,16 @@
       "Documentation Link": "https://developer.musixmatch.com/",
       "Category": "Music",
       "Pricing": "free"
+    },
+    {
+      "API Name": "Musixmatch",
+      "Description": "Musixmatch lyrics API is a robust service that permits you to search and retrieve lyrics in the simplest possible way. It just works.\n\nInclude millions of licensed lyrics on your website or in your application legally.\n\nThe fastest, most powerful and legal way to display lyrics on your website or in your application.\n\n#### Read musixmatch API Terms & Conditions and the Privacy Policy:\nBefore getting started, you must take a look at the [API Terms & Conditions](http://musixmatch.com/apiterms/) and the [Privacy Policy](https://developer.musixmatch.com/privacy). We’ve worked hard to make this service completely legal so that we are all protected from any foreseeable liability. Take the time to read this stuff.\n\n#### Register for an API key:\nAll you need to do is [register](https://developer.musixmatch.com/signup) in order to get your API key, a mandatory parameter for most of our API calls. It’s your personal identifier and should be kept secret:\n\n```\n  https://api.musixmatch.com/ws/v1.1/track.get?apikey=YOUR_API_KEY\n```\n#### Integrate the musixmatch service with your web site or application\nIn the most common scenario you only need to implement two API calls: \nThe first call is to match your catalog to ours using the [track.search](#!/Track/get_track_search) function and the second is to get the lyrics using the [track.lyrics.get](#!/Lyrics/get_track_lyrics_get) api. That’s it!\n\n## API Methods\nWhat does the musiXmatch API do?\n\nThe musiXmatch API allows you to read objects from our huge 100% licensed lyrics database.\n\nTo make your life easier we are providing you with one or more examples to show you how it could work in the wild. You’ll find both the API request and API response in all the available output formats for each API call. Follow the links below for the details.\n\nThe current API version is 1.1, the root URL is located at https://api.musixmatch.com/ws/1.1/\n\nSupported input parameters can be found on the page [Input Parameters](https://developer.musixmatch.com/documentation/input-parameters). Use UTF-8 to encode arguments when calling API methods.\n\nEvery response includes a status_code. A list of all status codes can be consulted at [Status Codes](https://developer.musixmatch.com/documentation/status-codes).\n\n## Music meta data\nThe musiXmatch api is built around lyrics, but there are many other data we provide through the api that can be used to improve every existent music service.\n\n## Track\nInside the track object you can get the following extra information:\n\n### TRACK RATING\n\nThe track rating is a score 0-100 identifying how popular is a song in musixmatch.\n\nYou can use this information to sort search results, like the most popular songs of an artist, of a music genre, of a lyrics language.\n\n### INSTRUMENTAL AND EXPLICIT FLAGS\n\nThe instrumental flag identifies songs with music only, no lyrics.\n\nThe explicit flag identifies songs with explicit lyrics or explicit title. We're able to identify explicit words and set the flag for the most common languages.\n\n### FAVOURITES\n\nHow many users have this song in their list of favourites.\n\nCan be used to sort tracks by num favourite to identify more popular tracks within a set.\n\n### MUSIC GENRE\n\nThe music genere of the song.\n\nCan be used to group songs by genre, as input for similarity alghorithms, artist genre identification, navigate songs by genere, etc.\n\n### SONG TITLES TRANSLATIONS\n\nThe track title, as translated in different lanauages, can be used to display the right writing for a given user, example:\n\nLIES (Bigbang) becomes 在光化門 in chinese\nHALLELUJAH (Bigbang) becomes ハレルヤ in japanese\n\n\n## Artist\nInside the artist object you can get the following nice extra information:\n\n### COMMENTS AND COUNTRY\n\nAn artist comment is a short snippet of text which can be mainly used for disambiguation.\n\nThe artist country is the born country of the artist/group\n\nThere are two perfect search result if you search by artist with the keyword \"U2\". Indeed there are two distinct music groups with this same name, one is the most known irish group of Bono Vox, the other is a less popular (world wide speaking) group from Japan.\n\nHere's how you can made use of the artist comment in your search result page:\n\nU2 (Irish rock band)\nU2 (あきやまうに)\nYou can also show the artist country for even better disambiguation:\n\nU2 (Irish rock band) from Ireland\nU2 (あきやまうに) from Japan\nARTIST TRANSLATIONS\n\nWhen you create a world wide music related service you have to take into consideration to display the artist name in the user's local language. These translation are also used as aliases to improve the search results.\n\nLet's use PSY for this example.\n\nWestern people know him as PSY but korean want to see the original name 싸이.\n\nUsing the name translations provided by our api you can show to every user the writing they expect to see.\n\nFurthermore, when you search for \"psy gangnam style\" or \"싸이 gangnam style\" with our search/match api you will still be able to find the song.\n\n### ARTIST RATING\n\nThe artist rating is a score 0-100 identifying how popular is an artist in musixmatch.\n\nYou can use this information to build charts, for suggestions, to sort search results. In the example above about U2, we use the artist rating to show the irish band before the japanese one in our serp.\n\n### ARTIST MUSIC GENRE\n\nWe provide one or more main artist genre, this information can be used to calculate similar artist, suggestions, or the filter a search by artist genre.\n\n\n\n## Album\nInside the album object you can get the following nice extra information:\n\n### ALBUM RATING\n\nThe album rating is a score 0-100 identifying how popular is an album in musixmatch.\n\nYou can use this information to sort search results, like the most popular albums of an artist.\n\n### ALBUM RATING\n\nThe album rating is a score 0-100 identifying how popular is an album in musixmatch.\n\nYou can use this information to sort search results, like the most popular albums of an artist.\n\n### ALBUM COPYRIGHT AND LABEL\n\nFor most of our albums we can provide extra information like for example:\n\nLabel: Universal-Island Records Ltd.\nCopyright: (P) 2013 Rubyworks, under license to Columbia Records, a Division of Sony Music Entertainment.\nALBUM TYPE AND RELEASE DATE\n\nThe album official release date can be used to sort an artist's albums view starting by the most recent one.\n\nAlbum can also be filtered or grouped by type: Single, Album, Compilation, Remix, Live. This can help to build an artist page with a more organized structure.\n\n### ALBUM MUSIC GENRE\n\nFor most of the albums we provide two groups of music genres. Primary and secondary. This information can be used to help user navigate albums by genre.\n\nAn example could be:\n\nPrimary genere: POP\nSecondary genre: K-POP or Mandopop",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://musixmatch.com",
+      "Category": "Music",
+      "Pricing": "unknown"
     },
     {
       "API Name": "MuslimSalat.com",
@@ -91803,21 +91803,21 @@
     },
     {
       "API Name": "Neutrino",
-      "Description": "Neutrino API is a general-purpose Cloud API.\nFeatures:\n• Email address validation and cleaning\n• Phone number validation and geolocation\n• IP geolocation\n• User-agent parsing with mobile device features\n• BIN and IIN lookup\n• Domain and IP reputation checking\n• URL validation and monitoring\n• HTML cleaning and sanitizing\n• HTML to PDF rendering\n• HTML resource extraction\n• Bad word filtering\n• Currency conversion\n• Unit conversion\n• High quality image resizing and water-marking\n• And more...",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://www.neutrinoapi.com",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Neutrino",
       "Description": "The general-purpose API",
       "Auth": "apiKey",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://www.neutrinoapi.com/",
+      "Category": "Development",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Neutrino",
+      "Description": "Neutrino API is a general-purpose Cloud API.\nFeatures:\n• Email address validation and cleaning\n• Phone number validation and geolocation\n• IP geolocation\n• User-agent parsing with mobile device features\n• BIN and IIN lookup\n• Domain and IP reputation checking\n• URL validation and monitoring\n• HTML cleaning and sanitizing\n• HTML to PDF rendering\n• HTML resource extraction\n• Bad word filtering\n• Currency conversion\n• Unit conversion\n• High quality image resizing and water-marking\n• And more...",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://www.neutrinoapi.com",
       "Category": "Development",
       "Pricing": "unknown"
     },
@@ -101453,21 +101453,21 @@
     },
     {
       "API Name": "Paypal Braintree",
-      "Description": "Get paid in your app and on your with a single integration that allows you to accept credit cards & everything else",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://developer.paypal.com/docs/api",
-      "Category": "Finance",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Paypal Braintree",
       "Description": "Payment processing for cards, PayPal, and digital wallets.",
       "Auth": "apiKey",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://developer.paypal.com/braintree/docs",
+      "Category": "Finance",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Paypal Braintree",
+      "Description": "Get paid in your app and on your with a single integration that allows you to accept credit cards & everything else",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://developer.paypal.com/docs/api",
       "Category": "Finance",
       "Pricing": "unknown"
     },
@@ -108693,22 +108693,22 @@
     },
     {
       "API Name": "Qualtrics",
-      "Description": "The service allows applications to integrate survey functionality, with specification of questions to ask, conditional display of questions depending on answers to prior questions, and aggregation and reporting of responses. It is intended to support academic research, customer service, preference polling, internal communications and employee feedback, and related functions.\nAPI methods support creation of survey questions with a range of response options, designation of survey recipients (either individuals or panels), questionnaire display, and logging of responses. Methods also support retrieval of response data for analysis outside the system.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://api.qualtrics.com/",
-      "Category": "Other",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Qualtrics",
       "Description": "Work with Qualtrics surveys, distributions and response events",
       "Auth": "apiKey",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://qualtrics.com",
       "Category": "Development",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Qualtrics",
+      "Description": "The service allows applications to integrate survey functionality, with specification of questions to ask, conditional display of questions depending on answers to prior questions, and aggregation and reporting of responses. It is intended to support academic research, customer service, preference polling, internal communications and employee feedback, and related functions.\nAPI methods support creation of survey questions with a range of response options, designation of survey recipients (either individuals or panels), questionnaire display, and logging of responses. Methods also support retrieval of response data for analysis outside the system.",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://api.qualtrics.com/",
+      "Category": "Other",
       "Pricing": "unknown"
     },
     {
@@ -109883,16 +109883,6 @@
     },
     {
       "API Name": "Randommer",
-      "Description": "Random data generator",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "yes",
-      "Documentation Link": "https://randommer.io/randommer-api",
-      "Category": "Test Data",
-      "Pricing": "free"
-    },
-    {
-      "API Name": "Randommer",
       "Description": "Randommer API API",
       "Auth": "",
       "HTTPS": true,
@@ -109900,6 +109890,16 @@
       "Documentation Link": "https://randommer.io",
       "Category": "Development",
       "Pricing": "unknown"
+    },
+    {
+      "API Name": "Randommer",
+      "Description": "Random data generator",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "yes",
+      "Documentation Link": "https://randommer.io/randommer-api",
+      "Category": "Test Data",
+      "Pricing": "free"
     },
     {
       "API Name": "RandomProfile",
@@ -115203,21 +115203,21 @@
     },
     {
       "API Name": "Salesforce SOAP",
-      "Description": "This SOAP API allows you to create, retrieve, update or delete records, such as accounts, leads, and custom objects while interacting with Force.com. It also allows you to maintain passwords, perform searches and more. This API is available for use in any language that supports Web services. Salesforce is a customer relationship management services company.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_quickstart_intro.htm",
-      "Category": "Business",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Salesforce SOAP",
       "Description": "The Force.com SOAP API (formerly known as the Force.com Web Services API) lets you integrate Force.com applications that can create, retrieve, update or delete records managed by Salesforce, Force.com, and Database.com, records such as accounts, leads, and custom objects. With more than 20 different calls, SOAP API also lets you to maintain passwords, perform searches, and much more. You can use the SOAP API with any programming language that supports Web services",
       "Auth": "OAuth",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://developer.salesforce.com/docs",
+      "Category": "Business",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Salesforce SOAP",
+      "Description": "This SOAP API allows you to create, retrieve, update or delete records, such as accounts, leads, and custom objects while interacting with Force.com. It also allows you to maintain passwords, perform searches and more. This API is available for use in any language that supports Web services. Salesforce is a customer relationship management services company.",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_quickstart_intro.htm",
       "Category": "Business",
       "Pricing": "unknown"
     },
@@ -115994,7 +115994,7 @@
     {
       "API Name": "Scholar Sidekick",
       "Description": "Resolves scholarly identifiers (DOI, PMID, ISBN, arXiv, ADS) to formatted citations and exports.",
-      "Auth": "No",
+      "Auth": "",
       "HTTPS": true,
       "Cors": "yes",
       "Documentation Link": "https://scholar-sidekick.com/docs.md",
@@ -123823,16 +123823,6 @@
     },
     {
       "API Name": "SoundCloud",
-      "Description": "With SoundCloud API you can build applications that will give more power to control your content",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://developers.soundcloud.com/docs/api/guide",
-      "Category": "Music",
-      "Pricing": "free"
-    },
-    {
-      "API Name": "SoundCloud",
       "Description": "Discover, stream, and share a constantly expanding mix of music from emerging and major artists around the world.",
       "Auth": "",
       "HTTPS": true,
@@ -123840,6 +123830,16 @@
       "Documentation Link": "https://developers.soundcloud.com/docs/api",
       "Category": "Music",
       "Pricing": "unknown"
+    },
+    {
+      "API Name": "SoundCloud",
+      "Description": "With SoundCloud API you can build applications that will give more power to control your content",
+      "Auth": "OAuth",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://developers.soundcloud.com/docs/api/guide",
+      "Category": "Music",
+      "Pricing": "free"
     },
     {
       "API Name": "SoundCloud Public API Specification",
@@ -131543,16 +131543,6 @@
     },
     {
       "API Name": "The Guardian",
-      "Description": "Access all the content the Guardian creates, categorised by tags and section",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "http://open-platform.theguardian.com/",
-      "Category": "News",
-      "Pricing": "free"
-    },
-    {
-      "API Name": "The Guardian",
       "Description": "Access articles and content from The Guardian newspaper.",
       "Auth": "apiKey",
       "HTTPS": true,
@@ -131560,6 +131550,16 @@
       "Documentation Link": "https://open-platform.theguardian.com/documentation",
       "Category": "News",
       "Pricing": "unknown"
+    },
+    {
+      "API Name": "The Guardian",
+      "Description": "Access all the content the Guardian creates, categorised by tags and section",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "http://open-platform.theguardian.com/",
+      "Category": "News",
+      "Pricing": "free"
     },
     {
       "API Name": "The Hollowverse GraphQL",
@@ -132823,22 +132823,22 @@
     },
     {
       "API Name": "Ticketmaster Discovery",
-      "Description": "The Ticketmaster Discovery API allows developers to programmatically search, look up, and find specific events, attractions, venues, and classifications. By default, API users can make up to 5000 calls/day. Rate increases are provided on a case-by-case basis. Ticketmaster is an online ticket retail platform that offers tickets for concerts, sporting events, plays, fairs, and more.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://developer.ticketmaster.com/products-and-docs/apis/discovery/v2",
-      "Category": "Events",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Ticketmaster Discovery",
       "Description": "The Ticketmaster Discovery API allows you to search for events, attractions, or venues.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "http://developer.ticketmaster.com/support/contact-us/",
       "Category": "Development",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Ticketmaster Discovery",
+      "Description": "The Ticketmaster Discovery API allows developers to programmatically search, look up, and find specific events, attractions, venues, and classifications. By default, API users can make up to 5000 calls/day. Rate increases are provided on a case-by-case basis. Ticketmaster is an online ticket retail platform that offers tickets for concerts, sporting events, plays, fairs, and more.",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://developer.ticketmaster.com/products-and-docs/apis/discovery/v2",
+      "Category": "Events",
       "Pricing": "unknown"
     },
     {
@@ -134793,22 +134793,22 @@
     },
     {
       "API Name": "Tradematic Cloud",
-      "Description": "Tradematic Cloud is a back-end infrastructure for building investment and trading apps. It’s a powerful algorithmic trading engine + API + ready-made adapters to stock and forex brokers, crypto exchanges, and market data providers. 12+ exchanges, 5 asset classes, 150 indicators. You can use it as a cloud API, or you can deploy it on your servers. See examples of applications to build with Tradematic Cloud at https://tradematic.cloud",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://tradematic.cloud",
-      "Category": "Finance",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Tradematic Cloud",
       "Description": "### Overview\nTradematic Cloud is a trading infrastructure for building investment services.\n\nIt’s a trading engine + API + ready-made adapters to stock and forex brokers, crypto exchanges, and market data providers.\n\nYou can use it as a cloud API, or you can deploy it on your servers. \n\n\n\n### How to use Tradematic Cloud API\n\nSign up at [tradematic.cloud](https://tradematic.cloud). After signing up, you will receive your API key.\n\n### Authorization\n\nAdd the 'X-API-KEY' header with your API key to each request.\n\n### Examples of writing code with Tradematic Cloud API\n\nExamples are available at [tradematic.cloud](https://tradematic.cloud). \n\n### Swagger (.yaml) File\nSwagger (.yaml) file can be found [here](http://tradematic.cloud/sdk/swagger.yaml).",
       "Auth": "apiKey",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://tradematic.com",
       "Category": "Development",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Tradematic Cloud",
+      "Description": "Tradematic Cloud is a back-end infrastructure for building investment and trading apps. It’s a powerful algorithmic trading engine + API + ready-made adapters to stock and forex brokers, crypto exchanges, and market data providers. 12+ exchanges, 5 asset classes, 150 indicators. You can use it as a cloud API, or you can deploy it on your servers. See examples of applications to build with Tradematic Cloud at https://tradematic.cloud",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://tradematic.cloud",
+      "Category": "Finance",
       "Pricing": "unknown"
     },
     {
@@ -135063,16 +135063,6 @@
     },
     {
       "API Name": "Trakt",
-      "Description": "At Trakt, we collect lots of interesting information about what tv shows and movies everyone is watching. Part of the fun with such data is making it available for anyone to mash up and use on their own site or app. The Trakt API was made just for this purpose. It is very easy to use, you basically call a URL and get some JSON back.\n\nMore complex API calls (such as adding a movie or show to your collection) involve sending us data. These are still easy to use, you simply POST some JSON data to a specific URL.\n\nMake sure to check out the [**Required Headers**](#introduction/required-headers) and [**Authentication**](#reference/authentication-oauth) sections for more info on what needs to be sent with each API call. Also check out the [**Terminology**](#introduction/terminology) section insight into the features Trakt supports.\n\n# Create an App\n\nTo use the Trakt API, you'll need to [**create a new API app**](https://trakt.tv/oauth/applications/new).\n\n# Stay Connected\n\nAPI discussion and bugs should be posted in the [**GitHub Developer Forum**](https://github.com/trakt/api-help/issues) and *watch* the repository if you'd like to get notifications. Make sure to follow our [**API Blog**](https://apiblog.trakt.tv) and [**@traktapi on Twitter**](https://twitter.com/traktapi) too.\n\n# API URL\n\nThe API should always be accessed over SSL.\n\n```\nhttps://api.trakt.tv\n```\n\nIf you would like to use our sandbox environment to not fill production with test data, use this URL over SSL. **Note:** Staging is a completely separate environment, so you'll need to [**create a new API app on staging**](https://staging.trakt.tv/oauth/applications/new).\n\n```\nhttps://api-staging.trakt.tv\n```\n\n# Verbs\n\nThe API uses restful verbs.\n\n| Verb | Description |\n|---|---|\n| `GET` | Select one or more items. Success returns `200` status code. |\n| `POST` | Create a new item. Success returns `201` status code. |\n| `PUT` | Update an item. Success returns `200` status code. |\n| `DELETE` | Delete an item. Success returns `200` or `204` status code. |\n\n# Status Codes\n\nThe API will respond with one of the following HTTP status codes.\n\n| Code | Description |\n|---|---|\n| `200` | Success\n| `201` | Success - *new resource created (POST)*\n| `204` | Success - *no content to return (DELETE)*\n| `400` | Bad Request - *request couldn't be parsed*\n| `401` | Unauthorized - *OAuth must be provided*\n| `403` | Forbidden - *invalid API key or unapproved app*\n| `404` | Not Found - *method exists, but no record found*\n| `405` | Method Not Found - *method doesn't exist*\n| `409` | Conflict - *resource already created*\n| `412` | Precondition Failed - *use application/json content type*\n| `420` | Account Limit Exceeded - *list count, item count, etc*\n| `422` | Unprocessable Entity - *validation errors*\n| `423` | Locked User Account - *have the user contact support*\n| `426` | VIP Only - *user must upgrade to VIP*\n| `429` | Rate Limit Exceeded\n| `500` | Server Error - *please open a support ticket*\n| `502` | Service Unavailable - *server overloaded (try again in 30s)*\n| `503` | Service Unavailable - *server overloaded (try again in 30s)*\n| `504` | Service Unavailable - *server overloaded (try again in 30s)*\n| `520` | Service Unavailable - *Cloudflare error*\n| `521` | Service Unavailable - *Cloudflare error*\n| `522` | Service Unavailable - *Cloudflare error*\n\n# Required Headers\n\nYou'll need to send some headers when making API calls to identify your application, set the version and set the content type to JSON.\n\n| Header | Value |\n|---|---|\n| `Content-type` <span style=\"color:red;\">*</a> | `application/json` |\n| `trakt-api-key` <span style=\"color:red;\">*</a> | Your `client_id` listed under your Trakt applications. |\n| `trakt-api-version` <span style=\"color:red;\">*</a> | `2` | API version to use.\n\nAll `POST`, `PUT`, and `DELETE` methods require a valid OAuth `access_token`. Some `GET` calls require OAuth and others will return user specific data if OAuth is sent. Methods that &#128274; **require** or have &#128275; **optional** OAuth will be indicated.\n\nYour OAuth library should take care of sending the auth headers for you, but for reference here's how the Bearer token should be sent.\n\n| Header | Value |\n|---|---|\n| `Authorization` | `Bearer [access_token]` |\n\n# Rate Limiting\n\nAll API methods are rate limited. A `429` HTTP status code is returned when the limit has been exceeded. Check the headers for detailed info, then try your API call in `Retry-After` seconds.\n\n| Header | Value |\n|---|---|\n| `X-Ratelimit` | `{\"name\":\"UNAUTHED_API_GET_LIMIT\",\"period\":300,\"limit\":1000,\"remaining\":0,\"until\":\"2020-10-10T00:24:00Z\"}` |\n| `Retry-After` | `10` |\n\nHere are the current limits. There are separate limits for authed (user level) and unauthed (application level) calls. We'll continue to adjust these limits to optimize API performance for everyone. The goal is to prevent API abuse and poor coding, but allow users to use apps normally.\n\n| Name | Verb | Methods | Limit |\n|---|---|---|---|\n| `AUTHED_API_POST_LIMIT` | `POST`, `PUT`, `DELETE` | all | 1 call per second |\n| `AUTHED_API_GET_LIMIT` | `GET` | all | 1000 calls every 5 minutes |\n| `UNAUTHED_API_GET_LIMIT` | `GET` | all | 1000 calls every 5 minutes |\n\n# Locked User Account\n\nA `423` HTTP status code is returned when the OAuth user has a locked user account. Please instruct the user to [**contact Trakt support**](https://support.trakt.tv) so we can fix their account. API access will be suspended for the user until we fix their account.\n\n# VIP Methods\n\nSome API methods are tagged 🔥 **VIP Only**. A `426` HTTP status code is returned when the user isn't a VIP, indicating they need to sign up for [**Trakt VIP**](https://trakt.tv/vip) in order to use this method. In your app, please open a browser to `X-Upgrade-URL` so the user can sign up for Trakt VIP.\n\n| Header | Value |\n|---|---|\n| `X-Upgrade-URL` | `https://trakt.tv/vip` |\n\nSome API methods are tagged 🔥 **VIP Enhanced**. A `420` HTTP status code is returned when the user has exceeded their account limit. Signing up for [**Trakt VIP**](https://trakt.tv/vip) will increase these limits. If the user isn't a VIP, please open a browser to `X-Upgrade-URL` so the user can sign up for Trakt VIP. If they are already VIP and still exceeded the limit, please display a message indicating this.\n\n| Header | Value |\n|---|---|\n| `X-Upgrade-URL` | `https://trakt.tv/vip` |\n| `X-VIP-User` | `true` or `false` |\n| `X-Account-Limit` | Limit allowed. |\n\n# Pagination\n\nSome methods are paginated. Methods with &#128196; **Pagination** will load 1 page of 10 items by default. Methods with &#128196; **Pagination Optional** will load all items by default. In either case, append a query string like `?page={page}&limit={limit}` to the URL to influence the results.\n\n| Parameter | Type | Default | Value |\n|---|---|---|---|\n| `page` | integer | `1` | Number of page of results to be returned. |\n| `limit` | integer | `10` | Number of results to return per page. |\n\nAll paginated methods will return these HTTP headers.\n\n| Header | Value |\n|---|---|\n| `X-Pagination-Page` | Current page. |\n| `X-Pagination-Limit` | Items per page. |\n| `X-Pagination-Page-Count` | Total number of pages. |\n| `X-Pagination-Item-Count` | Total number of items. |\n\n# Extended Info\n\nBy default, all methods will return minimal info for movies, shows, episodes, people, and users. Minimal info is typically all you need to match locally cached items and includes the `title`, `year`, and `ids`. However, you can request different extended levels of information by adding `?extended={level}` to the URL. Send a comma separated string to get multiple types of extended info.\n\n**Note:** This returns a lot of extra data, so please only use extended parameters if you actually need them!\n\n| Level | Description |\n|---|---|\n| `full` | Complete info for an item.\n| `metadata` | **Collection only.** Additional video and audio info.\n\n# Filters\n\nSome `movies`, `shows`, `calendars`,  and `search` methods support additional filters and will be tagged with &#127898; **Filters**. Applying these filters refines the results and helps your users to more easily discover new items.\n\nAdd a query string (i.e. `?years=2016&genres=action`) with any filters you want to use. Some filters allow multiples which can be sent as comma delimited parameters. For example, `?genres=action,adventure` would match the `action` OR `adventure` genre.\n\n**Note:** Make sure to properly URL encode the parameters including spaces and special characters.\n\n#### Common Filters\n\n| Parameter | Multiples | Example | Value |\n|---|---|---|---|\n| `query` | | `batman` | Search titles and descriptions. |\n| `years` | | `2016` | 4 digit year or range of years. |\n| `genres` | &#10003; | `action` | [Genre slugs.](#reference/genres) |\n| `languages` | &#10003; | `en` | [2 character language code.](#reference/languages) |\n| `countries` | &#10003; | `us` | [2 character country code.](#reference/countries) |\n| `runtimes` | | `30-90` | Range in minutes. |\n| `studios` | &#10003; | `marvel-studios` | Studio slugs. |\n\n#### Rating Filters\n\nTrakt, TMDB, and IMDB ratings apply to `movies`, `shows`, and `episodes`. Rotten Tomatoes and Metacritic apply to `movies`.\n\n| Parameter | Multiples | Example | Value |\n|---|---|---|---|\n| `ratings` | | `75-100` | Trakt rating range between `0` and `100`. |\n| `votes` | | `5000-10000` | Trakt vote count between `0` and `100000`. |\n| `tmdb_ratings` | | `5.5-10.0` | TMDB rating range between `0.0` and `10.0`. |\n| `tmdb_votes` | | `5000-10000` | TMDB vote count between `0` and `100000`. |\n| `imdb_ratings` | | `5.5-10.0` | IMDB rating range between `0.0` and `10.0`. |\n| `imdb_votes` | | `5000-10000` | IMDB vote count between `0` and `3000000`. |\n| `rt_meters` | | `5.5-10.0` | Rotten Tomatoes meter range between `0` and `100`. |\n| `metascores` | | `5.5-10.0` | Metacritic score range between `0` and `100`. |\n\n#### Movie Filters\n\n| Parameter | Multiples | Example | Value |\n|---|---|---|---|\n| `certifications` | &#10003; | `pg-13` | US content certification. |\n\n#### Show Filters\n\n| Parameter | Multiples | Example | Value |\n|---|---|---|---|\n| `certifications` | &#10003; | `tv-pg` | US content certification. |\n| `networks` | &#10003; | `HBO` | Network name. |\n| `status` | &#10003; | `ended` | Set to `returning series`, `continuing`, `in production`, `planned`, `upcoming`,  `pilot`, `canceled`, or `ended`. |\n\n# CORS\n\nWhen creating your API app, specify the JavaScript (CORS) origins you'll be using. We use these origins to return the headers needed for CORS.\n\n# Dates\n\nAll dates will be GMT and returned in the ISO 8601 format like `2014-09-01T09:10:11.000Z`. Adjust accordingly in your app for the user's local timezone.\n\n# Emojis\n\nWe use short codes for emojis like `:smiley:` and `:raised_hands:` and render them on the Trakt website using [**JoyPixels**](https://www.joypixels.com/) _(verion 6.6.0)_. Methods that support emojis are tagged with &#128513; **Emojis**. For POST methods, you can send standard unicode emojis and we'll automatically convert them to short codes. For GET methods, we'll return the short codes and it's up to your app to convert them back to unicode emojis.\n\n# Standard Media Objects\n\nAll methods will accept or return standard media objects for `movie`, `show`, `season`, `episode`, `person`, and `user` items. Here are examples for all minimal objects.\n\n#### movie\n\n```\n{\n    \"title\": \"Batman Begins\",\n    \"year\": 2005,\n    \"ids\": {\n        \"trakt\": 1,\n        \"slug\": \"batman-begins-2005\",\n        \"imdb\": \"tt0372784\",\n        \"tmdb\": 272\n    }\n}\n```\n\n#### show\n\n```\n{\n    \"title\": \"Breaking Bad\",\n    \"year\": 2008,\n    \"ids\": {\n        \"trakt\": 1,\n        \"slug\": \"breaking-bad\",\n        \"tvdb\": 81189,\n        \"imdb\": \"tt0903747\",\n        \"tmdb\": 1396\n    }\n}\n```\n\n#### season\n\n```\n{\n    \"number\": 0,\n    \"ids\": {\n        \"trakt\": 1,\n        \"tvdb\": 439371,\n        \"tmdb\": 3577\n    }\n}\n```\n\n#### episode\n\n```\n{\n    \"season\": 1,\n    \"number\": 1,\n    \"title\": \"Pilot\",\n    \"ids\": {\n        \"trakt\": 16,\n        \"tvdb\": 349232,\n        \"imdb\": \"tt0959621\",\n        \"tmdb\": 62085\n    }\n}\n```\n\n#### person\n\n```\n{\n    \"name\": \"Bryan Cranston\",\n    \"ids\": {\n        \"trakt\": 142,\n        \"slug\": \"bryan-cranston\",\n        \"imdb\": \"nm0186505\",\n        \"tmdb\": 17419\n    }\n}\n```\n\n#### user\n\n```\n{\n    \"username\": \"sean\",\n    \"private\": false,\n    \"name\": \"Sean Rudford\",\n    \"vip\": true,\n    \"vip_ep\": true,\n    \"ids\": {\n        \"slug\": \"sean\"\n    }\n}\n```\n\n# Images\n\nThe standard media objects for all `movie`, `show`, `season`, `episode`, and `person` items include an `ids` object. These `ids` map to other services like [TMDB](https://www.themoviedb.org), [TVDB](https://thetvdb.com), [Fanart.tv](https://fanart.tv), [IMDB](https://www.imdb.com), and [OMDB](https://www.omdbapi.com/).\n\nMost of these services have free APIs you can use to grab lots of great looking images. Here’s a chart to help you find the best artwork for your app. [**We also wrote an article to help with this.**](https://apiblog.trakt.tv/how-to-find-the-best-images-516045bcc3b6)\n\n| Media | Type | [TMDB](https://developers.themoviedb.org/3) | [TVDB](https://api.thetvdb.com/swagger) | [Fanart.tv](http://docs.fanarttv.apiary.io) | [OMDB](https://www.omdbapi.com) |\n|---|---|---|---|---|---|\n| `shows` | `poster` | &#10003; | &#10003; | &#10003; | &#10003; |\n|  | `fanart` | &#10003; | &#10003; | &#10003; |  |\n|  | `banner` |  | &#10003; | &#10003; |  |\n|  | `logo` |  |  | &#10003; |  |\n|  | `clearart` |  |  | &#10003; |  |\n|  | `thumb` |  |  | &#10003; |  |\n| `seasons` | `poster` | &#10003; | &#10003; | &#10003; |  |\n|  | `banner` |  | &#10003; | &#10003; |  |\n|  | `thumb` |  |  | &#10003; |  |\n| `episodes` | `screenshot` | &#10003; | &#10003; |  |  |\n| `movies` | `poster` | &#10003; |  | &#10003; | &#10003; |\n|  | `fanart` | &#10003; |  | &#10003; |  |\n|  | `banner` |  |  | &#10003; |  |\n|  | `logo` |  |  | &#10003; |  |\n|  | `clearart` |  |  | &#10003; |  |\n|  | `thumb` |  |  | &#10003; |  |\n| `person` | `headshot` | &#10003; |  |  |  |\n|  | `character` |  | &#10003; |  |  |\n\n# Website Media Links\n\nThere are several ways to construct direct links to media on the Trakt website. The website itself uses slugs so the URLs are more readable.\n\n| Type | URL |\n|---|---|\n| `movie` | `/movies/:slug` |\n| `show` | `/shows/:slug` |\n| `season` | `/shows/:slug/seasons/:num` |\n| `episode` | `/shows/:slug/seasons/:num/episodes/:num` |\n| `person` | `/people/:slug` |\n| `comment` | `/comments/:id` |\n| `list` | `/lists/:id` |\n\nYou can also create links using the Trakt, IMDB, TMDB, or TVDB IDs. We recommend using the Trakt ID if possible since that will always have full coverage. If you use the search url without an `id_type` it will return search results if multiple items are found.\n\n| Type | URL |\n|---|---|\n| `trakt` | `/search/trakt/:id` |\n|  | `/search/trakt/:id?id_type=movie` |\n|  | `/search/trakt/:id?id_type=show` |\n|  | `/search/trakt/:id?id_type=season` |\n|  | `/search/trakt/:id?id_type=episode` |\n|  | `/search/trakt/:id?id_type=person` |\n| `imdb` | `/search/imdb/:id` |\n| `tmdb` | `/search/tmdb/:id` |\n|  | `/search/tmdb/:id?id_type=movie` |\n|  | `/search/tmdb/:id?id_type=show` |\n|  | `/search/tmdb/:id?id_type=episode` |\n|  | `/search/tmdb/:id?id_type=person` |\n| `tvdb` | `/search/tvdb/:id` |\n|  | `/search/tvdb/:id?id_type=show` |\n|  | `/search/tvdb/:id?id_type=episode` |\n\n# Third Party Libraries\n\nAll of the libraries listed below are user contributed. If you find a bug or missing feature, please contact the developer directly. These might help give your project a head start, but we can't provide direct support for any of these libraries. Please help us keep this list up to date.\n\n| Language | Name | Repository |\n|---|---|---|\n| `C#` | `Trakt.NET` | https://github.com/henrikfroehling/Trakt.NET |\n|  | `TraktSharp` | https://github.com/wwarby/TraktSharp |\n| `C++` | `libtraqt` | https://github.com/RobertMe/libtraqt |\n| `Clojure` | `clj-trakt` | https://github.com/niamu/clj-trakt |\n| `Java` | `trakt-java` | https://github.com/UweTrottmann/trakt-java |\n| `Node.js` | `Trakt.tv` | https://github.com/vankasteelj/trakt.tv |\n|  | `TraktApi2` | https://github.com/PatrickE94/traktapi2 |\n| `Python` | `trakt.py` | https://github.com/fuzeman/trakt.py |\n|  | `pyTrakt` | https://github.com/moogar0880/PyTrakt |\n| `R` | `tRakt` | https://github.com/jemus42/tRakt |\n| `React Native` | `nodeless-trakt` | https://github.com/kdemoya/nodeless-trakt |\n| `Ruby` | `omniauth-trakt` | https://github.com/wafcio/omniauth-trakt |\n|  | `omniauth-trakt` | https://github.com/alextakitani/omniauth-trakt |\n| `Swift` | `TraktKit` | https://github.com/MaxHasADHD/TraktKit |\n|  | `AKTrakt` | https://github.com/arsonik/AKTrakt |\n\n# Terminology\n\nTrakt has a lot of features and here's a chart to help explain the differences between some of them.\n\n| Term | Description |\n|---|---|\n| `scrobble` | Automatic way to track what a user is watching in a media center. |\n| `checkin` | Manual action used by mobile apps allowing the user to indicate what they are watching right now. |\n| `history` | All watched items (scrobbles, checkins, watched) for a user. |\n| `collection` | Items a user has available to watch including Blu-Rays, DVDs, and digital downloads. |\n| `watchlist` | Items a user wants to watch in the future. Once watched, they are auto removed from this list. |\n| `list` | Personal list for any purpose. Items are not auto removed from any personal lists. |\n| `recommendations` | Movies and TV shows a user personally recommends to others. |",
-      "Auth": "OAuth",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://trakt.tv",
-      "Category": "Entertainment",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Trakt",
       "Description": "Movie and TV Data",
       "Auth": "apiKey",
       "HTTPS": true,
@@ -135080,6 +135070,16 @@
       "Documentation Link": "https://trakt.docs.apiary.io/",
       "Category": "Video",
       "Pricing": "free"
+    },
+    {
+      "API Name": "Trakt",
+      "Description": "At Trakt, we collect lots of interesting information about what tv shows and movies everyone is watching. Part of the fun with such data is making it available for anyone to mash up and use on their own site or app. The Trakt API was made just for this purpose. It is very easy to use, you basically call a URL and get some JSON back.\n\nMore complex API calls (such as adding a movie or show to your collection) involve sending us data. These are still easy to use, you simply POST some JSON data to a specific URL.\n\nMake sure to check out the [**Required Headers**](#introduction/required-headers) and [**Authentication**](#reference/authentication-oauth) sections for more info on what needs to be sent with each API call. Also check out the [**Terminology**](#introduction/terminology) section insight into the features Trakt supports.\n\n# Create an App\n\nTo use the Trakt API, you'll need to [**create a new API app**](https://trakt.tv/oauth/applications/new).\n\n# Stay Connected\n\nAPI discussion and bugs should be posted in the [**GitHub Developer Forum**](https://github.com/trakt/api-help/issues) and *watch* the repository if you'd like to get notifications. Make sure to follow our [**API Blog**](https://apiblog.trakt.tv) and [**@traktapi on Twitter**](https://twitter.com/traktapi) too.\n\n# API URL\n\nThe API should always be accessed over SSL.\n\n```\nhttps://api.trakt.tv\n```\n\nIf you would like to use our sandbox environment to not fill production with test data, use this URL over SSL. **Note:** Staging is a completely separate environment, so you'll need to [**create a new API app on staging**](https://staging.trakt.tv/oauth/applications/new).\n\n```\nhttps://api-staging.trakt.tv\n```\n\n# Verbs\n\nThe API uses restful verbs.\n\n| Verb | Description |\n|---|---|\n| `GET` | Select one or more items. Success returns `200` status code. |\n| `POST` | Create a new item. Success returns `201` status code. |\n| `PUT` | Update an item. Success returns `200` status code. |\n| `DELETE` | Delete an item. Success returns `200` or `204` status code. |\n\n# Status Codes\n\nThe API will respond with one of the following HTTP status codes.\n\n| Code | Description |\n|---|---|\n| `200` | Success\n| `201` | Success - *new resource created (POST)*\n| `204` | Success - *no content to return (DELETE)*\n| `400` | Bad Request - *request couldn't be parsed*\n| `401` | Unauthorized - *OAuth must be provided*\n| `403` | Forbidden - *invalid API key or unapproved app*\n| `404` | Not Found - *method exists, but no record found*\n| `405` | Method Not Found - *method doesn't exist*\n| `409` | Conflict - *resource already created*\n| `412` | Precondition Failed - *use application/json content type*\n| `420` | Account Limit Exceeded - *list count, item count, etc*\n| `422` | Unprocessable Entity - *validation errors*\n| `423` | Locked User Account - *have the user contact support*\n| `426` | VIP Only - *user must upgrade to VIP*\n| `429` | Rate Limit Exceeded\n| `500` | Server Error - *please open a support ticket*\n| `502` | Service Unavailable - *server overloaded (try again in 30s)*\n| `503` | Service Unavailable - *server overloaded (try again in 30s)*\n| `504` | Service Unavailable - *server overloaded (try again in 30s)*\n| `520` | Service Unavailable - *Cloudflare error*\n| `521` | Service Unavailable - *Cloudflare error*\n| `522` | Service Unavailable - *Cloudflare error*\n\n# Required Headers\n\nYou'll need to send some headers when making API calls to identify your application, set the version and set the content type to JSON.\n\n| Header | Value |\n|---|---|\n| `Content-type` <span style=\"color:red;\">*</a> | `application/json` |\n| `trakt-api-key` <span style=\"color:red;\">*</a> | Your `client_id` listed under your Trakt applications. |\n| `trakt-api-version` <span style=\"color:red;\">*</a> | `2` | API version to use.\n\nAll `POST`, `PUT`, and `DELETE` methods require a valid OAuth `access_token`. Some `GET` calls require OAuth and others will return user specific data if OAuth is sent. Methods that &#128274; **require** or have &#128275; **optional** OAuth will be indicated.\n\nYour OAuth library should take care of sending the auth headers for you, but for reference here's how the Bearer token should be sent.\n\n| Header | Value |\n|---|---|\n| `Authorization` | `Bearer [access_token]` |\n\n# Rate Limiting\n\nAll API methods are rate limited. A `429` HTTP status code is returned when the limit has been exceeded. Check the headers for detailed info, then try your API call in `Retry-After` seconds.\n\n| Header | Value |\n|---|---|\n| `X-Ratelimit` | `{\"name\":\"UNAUTHED_API_GET_LIMIT\",\"period\":300,\"limit\":1000,\"remaining\":0,\"until\":\"2020-10-10T00:24:00Z\"}` |\n| `Retry-After` | `10` |\n\nHere are the current limits. There are separate limits for authed (user level) and unauthed (application level) calls. We'll continue to adjust these limits to optimize API performance for everyone. The goal is to prevent API abuse and poor coding, but allow users to use apps normally.\n\n| Name | Verb | Methods | Limit |\n|---|---|---|---|\n| `AUTHED_API_POST_LIMIT` | `POST`, `PUT`, `DELETE` | all | 1 call per second |\n| `AUTHED_API_GET_LIMIT` | `GET` | all | 1000 calls every 5 minutes |\n| `UNAUTHED_API_GET_LIMIT` | `GET` | all | 1000 calls every 5 minutes |\n\n# Locked User Account\n\nA `423` HTTP status code is returned when the OAuth user has a locked user account. Please instruct the user to [**contact Trakt support**](https://support.trakt.tv) so we can fix their account. API access will be suspended for the user until we fix their account.\n\n# VIP Methods\n\nSome API methods are tagged 🔥 **VIP Only**. A `426` HTTP status code is returned when the user isn't a VIP, indicating they need to sign up for [**Trakt VIP**](https://trakt.tv/vip) in order to use this method. In your app, please open a browser to `X-Upgrade-URL` so the user can sign up for Trakt VIP.\n\n| Header | Value |\n|---|---|\n| `X-Upgrade-URL` | `https://trakt.tv/vip` |\n\nSome API methods are tagged 🔥 **VIP Enhanced**. A `420` HTTP status code is returned when the user has exceeded their account limit. Signing up for [**Trakt VIP**](https://trakt.tv/vip) will increase these limits. If the user isn't a VIP, please open a browser to `X-Upgrade-URL` so the user can sign up for Trakt VIP. If they are already VIP and still exceeded the limit, please display a message indicating this.\n\n| Header | Value |\n|---|---|\n| `X-Upgrade-URL` | `https://trakt.tv/vip` |\n| `X-VIP-User` | `true` or `false` |\n| `X-Account-Limit` | Limit allowed. |\n\n# Pagination\n\nSome methods are paginated. Methods with &#128196; **Pagination** will load 1 page of 10 items by default. Methods with &#128196; **Pagination Optional** will load all items by default. In either case, append a query string like `?page={page}&limit={limit}` to the URL to influence the results.\n\n| Parameter | Type | Default | Value |\n|---|---|---|---|\n| `page` | integer | `1` | Number of page of results to be returned. |\n| `limit` | integer | `10` | Number of results to return per page. |\n\nAll paginated methods will return these HTTP headers.\n\n| Header | Value |\n|---|---|\n| `X-Pagination-Page` | Current page. |\n| `X-Pagination-Limit` | Items per page. |\n| `X-Pagination-Page-Count` | Total number of pages. |\n| `X-Pagination-Item-Count` | Total number of items. |\n\n# Extended Info\n\nBy default, all methods will return minimal info for movies, shows, episodes, people, and users. Minimal info is typically all you need to match locally cached items and includes the `title`, `year`, and `ids`. However, you can request different extended levels of information by adding `?extended={level}` to the URL. Send a comma separated string to get multiple types of extended info.\n\n**Note:** This returns a lot of extra data, so please only use extended parameters if you actually need them!\n\n| Level | Description |\n|---|---|\n| `full` | Complete info for an item.\n| `metadata` | **Collection only.** Additional video and audio info.\n\n# Filters\n\nSome `movies`, `shows`, `calendars`,  and `search` methods support additional filters and will be tagged with &#127898; **Filters**. Applying these filters refines the results and helps your users to more easily discover new items.\n\nAdd a query string (i.e. `?years=2016&genres=action`) with any filters you want to use. Some filters allow multiples which can be sent as comma delimited parameters. For example, `?genres=action,adventure` would match the `action` OR `adventure` genre.\n\n**Note:** Make sure to properly URL encode the parameters including spaces and special characters.\n\n#### Common Filters\n\n| Parameter | Multiples | Example | Value |\n|---|---|---|---|\n| `query` | | `batman` | Search titles and descriptions. |\n| `years` | | `2016` | 4 digit year or range of years. |\n| `genres` | &#10003; | `action` | [Genre slugs.](#reference/genres) |\n| `languages` | &#10003; | `en` | [2 character language code.](#reference/languages) |\n| `countries` | &#10003; | `us` | [2 character country code.](#reference/countries) |\n| `runtimes` | | `30-90` | Range in minutes. |\n| `studios` | &#10003; | `marvel-studios` | Studio slugs. |\n\n#### Rating Filters\n\nTrakt, TMDB, and IMDB ratings apply to `movies`, `shows`, and `episodes`. Rotten Tomatoes and Metacritic apply to `movies`.\n\n| Parameter | Multiples | Example | Value |\n|---|---|---|---|\n| `ratings` | | `75-100` | Trakt rating range between `0` and `100`. |\n| `votes` | | `5000-10000` | Trakt vote count between `0` and `100000`. |\n| `tmdb_ratings` | | `5.5-10.0` | TMDB rating range between `0.0` and `10.0`. |\n| `tmdb_votes` | | `5000-10000` | TMDB vote count between `0` and `100000`. |\n| `imdb_ratings` | | `5.5-10.0` | IMDB rating range between `0.0` and `10.0`. |\n| `imdb_votes` | | `5000-10000` | IMDB vote count between `0` and `3000000`. |\n| `rt_meters` | | `5.5-10.0` | Rotten Tomatoes meter range between `0` and `100`. |\n| `metascores` | | `5.5-10.0` | Metacritic score range between `0` and `100`. |\n\n#### Movie Filters\n\n| Parameter | Multiples | Example | Value |\n|---|---|---|---|\n| `certifications` | &#10003; | `pg-13` | US content certification. |\n\n#### Show Filters\n\n| Parameter | Multiples | Example | Value |\n|---|---|---|---|\n| `certifications` | &#10003; | `tv-pg` | US content certification. |\n| `networks` | &#10003; | `HBO` | Network name. |\n| `status` | &#10003; | `ended` | Set to `returning series`, `continuing`, `in production`, `planned`, `upcoming`,  `pilot`, `canceled`, or `ended`. |\n\n# CORS\n\nWhen creating your API app, specify the JavaScript (CORS) origins you'll be using. We use these origins to return the headers needed for CORS.\n\n# Dates\n\nAll dates will be GMT and returned in the ISO 8601 format like `2014-09-01T09:10:11.000Z`. Adjust accordingly in your app for the user's local timezone.\n\n# Emojis\n\nWe use short codes for emojis like `:smiley:` and `:raised_hands:` and render them on the Trakt website using [**JoyPixels**](https://www.joypixels.com/) _(verion 6.6.0)_. Methods that support emojis are tagged with &#128513; **Emojis**. For POST methods, you can send standard unicode emojis and we'll automatically convert them to short codes. For GET methods, we'll return the short codes and it's up to your app to convert them back to unicode emojis.\n\n# Standard Media Objects\n\nAll methods will accept or return standard media objects for `movie`, `show`, `season`, `episode`, `person`, and `user` items. Here are examples for all minimal objects.\n\n#### movie\n\n```\n{\n    \"title\": \"Batman Begins\",\n    \"year\": 2005,\n    \"ids\": {\n        \"trakt\": 1,\n        \"slug\": \"batman-begins-2005\",\n        \"imdb\": \"tt0372784\",\n        \"tmdb\": 272\n    }\n}\n```\n\n#### show\n\n```\n{\n    \"title\": \"Breaking Bad\",\n    \"year\": 2008,\n    \"ids\": {\n        \"trakt\": 1,\n        \"slug\": \"breaking-bad\",\n        \"tvdb\": 81189,\n        \"imdb\": \"tt0903747\",\n        \"tmdb\": 1396\n    }\n}\n```\n\n#### season\n\n```\n{\n    \"number\": 0,\n    \"ids\": {\n        \"trakt\": 1,\n        \"tvdb\": 439371,\n        \"tmdb\": 3577\n    }\n}\n```\n\n#### episode\n\n```\n{\n    \"season\": 1,\n    \"number\": 1,\n    \"title\": \"Pilot\",\n    \"ids\": {\n        \"trakt\": 16,\n        \"tvdb\": 349232,\n        \"imdb\": \"tt0959621\",\n        \"tmdb\": 62085\n    }\n}\n```\n\n#### person\n\n```\n{\n    \"name\": \"Bryan Cranston\",\n    \"ids\": {\n        \"trakt\": 142,\n        \"slug\": \"bryan-cranston\",\n        \"imdb\": \"nm0186505\",\n        \"tmdb\": 17419\n    }\n}\n```\n\n#### user\n\n```\n{\n    \"username\": \"sean\",\n    \"private\": false,\n    \"name\": \"Sean Rudford\",\n    \"vip\": true,\n    \"vip_ep\": true,\n    \"ids\": {\n        \"slug\": \"sean\"\n    }\n}\n```\n\n# Images\n\nThe standard media objects for all `movie`, `show`, `season`, `episode`, and `person` items include an `ids` object. These `ids` map to other services like [TMDB](https://www.themoviedb.org), [TVDB](https://thetvdb.com), [Fanart.tv](https://fanart.tv), [IMDB](https://www.imdb.com), and [OMDB](https://www.omdbapi.com/).\n\nMost of these services have free APIs you can use to grab lots of great looking images. Here’s a chart to help you find the best artwork for your app. [**We also wrote an article to help with this.**](https://apiblog.trakt.tv/how-to-find-the-best-images-516045bcc3b6)\n\n| Media | Type | [TMDB](https://developers.themoviedb.org/3) | [TVDB](https://api.thetvdb.com/swagger) | [Fanart.tv](http://docs.fanarttv.apiary.io) | [OMDB](https://www.omdbapi.com) |\n|---|---|---|---|---|---|\n| `shows` | `poster` | &#10003; | &#10003; | &#10003; | &#10003; |\n|  | `fanart` | &#10003; | &#10003; | &#10003; |  |\n|  | `banner` |  | &#10003; | &#10003; |  |\n|  | `logo` |  |  | &#10003; |  |\n|  | `clearart` |  |  | &#10003; |  |\n|  | `thumb` |  |  | &#10003; |  |\n| `seasons` | `poster` | &#10003; | &#10003; | &#10003; |  |\n|  | `banner` |  | &#10003; | &#10003; |  |\n|  | `thumb` |  |  | &#10003; |  |\n| `episodes` | `screenshot` | &#10003; | &#10003; |  |  |\n| `movies` | `poster` | &#10003; |  | &#10003; | &#10003; |\n|  | `fanart` | &#10003; |  | &#10003; |  |\n|  | `banner` |  |  | &#10003; |  |\n|  | `logo` |  |  | &#10003; |  |\n|  | `clearart` |  |  | &#10003; |  |\n|  | `thumb` |  |  | &#10003; |  |\n| `person` | `headshot` | &#10003; |  |  |  |\n|  | `character` |  | &#10003; |  |  |\n\n# Website Media Links\n\nThere are several ways to construct direct links to media on the Trakt website. The website itself uses slugs so the URLs are more readable.\n\n| Type | URL |\n|---|---|\n| `movie` | `/movies/:slug` |\n| `show` | `/shows/:slug` |\n| `season` | `/shows/:slug/seasons/:num` |\n| `episode` | `/shows/:slug/seasons/:num/episodes/:num` |\n| `person` | `/people/:slug` |\n| `comment` | `/comments/:id` |\n| `list` | `/lists/:id` |\n\nYou can also create links using the Trakt, IMDB, TMDB, or TVDB IDs. We recommend using the Trakt ID if possible since that will always have full coverage. If you use the search url without an `id_type` it will return search results if multiple items are found.\n\n| Type | URL |\n|---|---|\n| `trakt` | `/search/trakt/:id` |\n|  | `/search/trakt/:id?id_type=movie` |\n|  | `/search/trakt/:id?id_type=show` |\n|  | `/search/trakt/:id?id_type=season` |\n|  | `/search/trakt/:id?id_type=episode` |\n|  | `/search/trakt/:id?id_type=person` |\n| `imdb` | `/search/imdb/:id` |\n| `tmdb` | `/search/tmdb/:id` |\n|  | `/search/tmdb/:id?id_type=movie` |\n|  | `/search/tmdb/:id?id_type=show` |\n|  | `/search/tmdb/:id?id_type=episode` |\n|  | `/search/tmdb/:id?id_type=person` |\n| `tvdb` | `/search/tvdb/:id` |\n|  | `/search/tvdb/:id?id_type=show` |\n|  | `/search/tvdb/:id?id_type=episode` |\n\n# Third Party Libraries\n\nAll of the libraries listed below are user contributed. If you find a bug or missing feature, please contact the developer directly. These might help give your project a head start, but we can't provide direct support for any of these libraries. Please help us keep this list up to date.\n\n| Language | Name | Repository |\n|---|---|---|\n| `C#` | `Trakt.NET` | https://github.com/henrikfroehling/Trakt.NET |\n|  | `TraktSharp` | https://github.com/wwarby/TraktSharp |\n| `C++` | `libtraqt` | https://github.com/RobertMe/libtraqt |\n| `Clojure` | `clj-trakt` | https://github.com/niamu/clj-trakt |\n| `Java` | `trakt-java` | https://github.com/UweTrottmann/trakt-java |\n| `Node.js` | `Trakt.tv` | https://github.com/vankasteelj/trakt.tv |\n|  | `TraktApi2` | https://github.com/PatrickE94/traktapi2 |\n| `Python` | `trakt.py` | https://github.com/fuzeman/trakt.py |\n|  | `pyTrakt` | https://github.com/moogar0880/PyTrakt |\n| `R` | `tRakt` | https://github.com/jemus42/tRakt |\n| `React Native` | `nodeless-trakt` | https://github.com/kdemoya/nodeless-trakt |\n| `Ruby` | `omniauth-trakt` | https://github.com/wafcio/omniauth-trakt |\n|  | `omniauth-trakt` | https://github.com/alextakitani/omniauth-trakt |\n| `Swift` | `TraktKit` | https://github.com/MaxHasADHD/TraktKit |\n|  | `AKTrakt` | https://github.com/arsonik/AKTrakt |\n\n# Terminology\n\nTrakt has a lot of features and here's a chart to help explain the differences between some of them.\n\n| Term | Description |\n|---|---|\n| `scrobble` | Automatic way to track what a user is watching in a media center. |\n| `checkin` | Manual action used by mobile apps allowing the user to indicate what they are watching right now. |\n| `history` | All watched items (scrobbles, checkins, watched) for a user. |\n| `collection` | Items a user has available to watch including Blu-Rays, DVDs, and digital downloads. |\n| `watchlist` | Items a user wants to watch in the future. Once watched, they are auto removed from this list. |\n| `list` | Personal list for any purpose. Items are not auto removed from any personal lists. |\n| `recommendations` | Movies and TV shows a user personally recommends to others. |",
+      "Auth": "OAuth",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://trakt.tv",
+      "Category": "Entertainment",
+      "Pricing": "unknown"
     },
     {
       "API Name": "trakt.tv",
@@ -154993,16 +154993,6 @@
     },
     {
       "API Name": "Zoom",
-      "Description": "The Zoom API allows developers to access information from Zoom. You can use this API to build private services or public applications on the [Zoom App Marketplace](http://marketplace.zoom.us). To learn how to get your credentials and create private/public applications, read our [Authorization Guide](https://marketplace.zoom.us/docs/guides/authorization/credentials).\nAll endpoints are available via `https` and are located at `api.zoom.us/v2/`.\n\nFor instance you can list all users on an account via `https://api.zoom.us/v2/users/`.",
-      "Auth": "apiKey",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "https://developer.zoom.us/",
-      "Category": "Security",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Zoom",
       "Description": "Video communication, web conferencing, chat, and webinars",
       "Auth": "OAuth",
       "HTTPS": true,
@@ -155010,6 +155000,16 @@
       "Documentation Link": "https://developers.zoom.us/docs/api",
       "Category": "Social",
       "Pricing": "free"
+    },
+    {
+      "API Name": "Zoom",
+      "Description": "The Zoom API allows developers to access information from Zoom. You can use this API to build private services or public applications on the [Zoom App Marketplace](http://marketplace.zoom.us). To learn how to get your credentials and create private/public applications, read our [Authorization Guide](https://marketplace.zoom.us/docs/guides/authorization/credentials).\nAll endpoints are available via `https` and are located at `api.zoom.us/v2/`.\n\nFor instance you can list all users on an account via `https://api.zoom.us/v2/users/`.",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "https://developer.zoom.us/",
+      "Category": "Security",
+      "Pricing": "unknown"
     },
     {
       "API Name": "Zoom Rooms",
