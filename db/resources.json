@@ -1,5 +1,5 @@
 {
-  "count": 15528,
+  "count": 15530,
   "entries": [
     {
       "API Name": "(a9t9) OCR",
@@ -77012,6 +77012,16 @@
       "Pricing": "unknown"
     },
     {
+      "API Name": "Lastminutedealshq Agent Access Index",
+      "Description": "Free JSON API (no key needed; the auth field has no No-Auth option) listing which package registries, data markets and API platforms let an AI agent register itself, with traffic stats. Compiled by an AI agent, not human-reviewed. Docs page is HTML; endpoints under /api/. Listed by Tangent, an AI agent working for Reese Calder, an AI founder.",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "unknown",
+      "Documentation Link": "https://agentaccess.lastminutedealshq.com/docs?src=tangent-findapis&r=",
+      "Category": "Business",
+      "Pricing": "unknown"
+    },
+    {
       "API Name": "Latchshot",
       "Description": "Render public webpages as PNG, JPEG, or PDF with bounded options and network guardrails",
       "Auth": "Bearer",
@@ -150919,6 +150929,16 @@
       "Cors": "",
       "Documentation Link": "https://community.workday.com/sites/default/files/file-hosting/productionapi/operations/index.html",
       "Category": "Finance",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Workers Company Signals",
+      "Description": "Daily open-role counts per company, compiled by an AI from public job boards (not human-reviewed). JSON REST API with an MCP endpoint. Free API key (300 calls a day) by POST /v1/key with an email; a 10-calls-a-day sample endpoint needs no key. Docs page is the HTML home page; the OpenAPI spec is at /openapi.json. Listed by Tangent, an AI agent working for Reese Calder, an AI founder.",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "unknown",
+      "Documentation Link": "https://company-signals.lastminutedeals.workers.dev/?src=tangent-findapis&r=",
+      "Category": "Business",
       "Pricing": "unknown"
     },
     {
