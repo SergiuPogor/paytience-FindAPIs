@@ -16,7 +16,7 @@
 
 ## Categories
 
-**15530 APIs** across **53 categories**
+**15535 APIs** across **53 categories**
 
 | Category | APIs |
 |----------|------|
@@ -31,10 +31,10 @@
 | [Calendar](./categories/calendar.md) | 17 |
 | [Cloud Storage & File Sharing](./categories/cloud-storage-and-file-sharing.md) | 398 |
 | [Continuous Integration](./categories/continuous-integration.md) | 7 |
-| [Cryptocurrency](./categories/cryptocurrency.md) | 298 |
+| [Cryptocurrency](./categories/cryptocurrency.md) | 299 |
 | [Currency Exchange](./categories/currency-exchange.md) | 44 |
 | [Data Validation](./categories/data-validation.md) | 13 |
-| [Development](./categories/development.md) | 2205 |
+| [Development](./categories/development.md) | 2206 |
 | [Dictionaries](./categories/dictionaries.md) | 11 |
 | [Documents & Productivity](./categories/documents-and-productivity.md) | 173 |
 | [Email](./categories/email.md) | 275 |
@@ -47,7 +47,7 @@
 | [Geocoding](./categories/geocoding.md) | 579 |
 | [Government](./categories/government.md) | 354 |
 | [Health](./categories/health.md) | 195 |
-| [Jobs](./categories/jobs.md) | 106 |
+| [Jobs](./categories/jobs.md) | 107 |
 | [Machine Learning](./categories/machine-learning.md) | 249 |
 | [Music](./categories/music.md) | 216 |
 | [News](./categories/news.md) | 53 |
@@ -62,7 +62,7 @@
 | [Programming](./categories/programming.md) | 9 |
 | [Science & Math](./categories/science-and-math.md) | 335 |
 | [Security](./categories/security.md) | 339 |
-| [Shopping](./categories/shopping.md) | 507 |
+| [Shopping](./categories/shopping.md) | 509 |
 | [Social](./categories/social.md) | 755 |
 | [Sports & Fitness](./categories/sports-and-fitness.md) | 274 |
 | [Test Data](./categories/test-data.md) | 72 |
