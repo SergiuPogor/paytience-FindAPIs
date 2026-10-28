@@ -1,5 +1,5 @@
 {
-  "count": 15535,
+  "count": 15536,
   "entries": [
     {
       "API Name": "(a9t9) OCR",
@@ -108589,6 +108589,16 @@
       "Cors": "",
       "Documentation Link": "http://qordoba.com/technology",
       "Category": "Other",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Qovia",
+      "Description": "Qovia gives developers and AI agents one API key for public data from Douyin, Xiaohongshu (RedNote), Bilibili, Weibo, Kuaishou, Zhihu, Taobao/JD reviews, TikTok, YouTube, Instagram and X. 100+ endpoints return posts, comments, creator profiles, hot lists and search results in the same response envelope; posts, notes and videos share one record shape. Plug it into Claude, Cursor or VS Code as a remote MCP server. You only pay for calls that return data, and new accounts get 50 trial calls.",
+      "Auth": "Bearer",
+      "HTTPS": true,
+      "Cors": "unknown",
+      "Documentation Link": "https://qovia.ai/docs/",
+      "Category": "Social",
       "Pricing": "unknown"
     },
     {
