@@ -132933,22 +132933,22 @@
     },
     {
       "API Name": "Ticketmaster Discovery",
-      "Description": "The Ticketmaster Discovery API allows you to search for events, attractions, or venues.",
-      "Auth": "",
-      "HTTPS": true,
-      "Cors": "",
-      "Documentation Link": "http://developer.ticketmaster.com/support/contact-us/",
-      "Category": "Development",
-      "Pricing": "unknown"
-    },
-    {
-      "API Name": "Ticketmaster Discovery",
       "Description": "The Ticketmaster Discovery API allows developers to programmatically search, look up, and find specific events, attractions, venues, and classifications. By default, API users can make up to 5000 calls/day. Rate increases are provided on a case-by-case basis. Ticketmaster is an online ticket retail platform that offers tickets for concerts, sporting events, plays, fairs, and more.",
       "Auth": "",
       "HTTPS": true,
       "Cors": "",
       "Documentation Link": "https://developer.ticketmaster.com/products-and-docs/apis/discovery/v2",
       "Category": "Events",
+      "Pricing": "unknown"
+    },
+    {
+      "API Name": "Ticketmaster Discovery",
+      "Description": "The Ticketmaster Discovery API allows you to search for events, attractions, or venues.",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "",
+      "Documentation Link": "http://developer.ticketmaster.com/support/contact-us/",
+      "Category": "Development",
       "Pricing": "unknown"
     },
     {
